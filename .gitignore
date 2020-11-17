@@ -27,3 +27,7 @@ hs_err_pid*
 logs/
 
 config/Embassy/
+
+usercache.json
+
+usernamecache.json
