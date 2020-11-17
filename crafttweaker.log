@@ -1,0 +1,1718 @@
+[PREINITIALIZATION][CLIENT][INFO] Current loaders after merging: [[preinit]]
+[PREINITIALIZATION][CLIENT][INFO] Loading scripts for loader with names [preinit]
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: ActuallyAdditions.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: AdvancedGenerators.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: AdvancedRocketry.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: AkashicTome.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: AppliedEnergistics.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Backpacks.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Bibliocraft.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: BiomesOPlenty.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Chisel.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: ChiselsAndBits.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Cyclic.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Embers.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: ExtraUtilities2.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: FluidCompatibility.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Furnace.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Harvestcraft.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: ImmersiveEngineering.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: IndustrialCraft2.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: IndustrialForegoing.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: IntegratedDynamics.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: JEICategories.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Mekanism.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: MiscRecipes.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: MorphOTool.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: NuclearCraft.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: OreDict.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: OreDictATM.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: PlankWoodFix.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Plates.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: RecipeConflicts.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Smeltables&Burnables.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: TempRecipes.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Thaumcraft.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: ThermalExpansion.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: TinkersConstruct.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] [preinit | SIDE_CLIENT]: Skipping file {[0:crafttweaker]: Tooltips.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][CLIENT][INFO] Completed script loading in: 2ms
+[INITIALIZATION][CLIENT][INFO] CraftTweaker: Building registry
+[INITIALIZATION][CLIENT][INFO] CraftTweaker: Successfully built item registry
+[INITIALIZATION][CLIENT][INFO] Current loaders after merging: [[preinit], [recipeevent | crafttweaker]]
+[INITIALIZATION][CLIENT][INFO] Loading scripts for loader with names [crafttweaker | recipeevent]
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: ActuallyAdditions.zs}
+[INITIALIZATION][CLIENT][INFO] --- loading ActuallyAdditions.zs ---
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: AdvancedGenerators.zs}
+[INITIALIZATION][CLIENT][INFO] --- loading AdvancedGenerators.zs ---
+[INITIALIZATION][CLIENT][INFO] --- AdvancedGenerators.zs initialized ---
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: AdvancedRocketry.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: AkashicTome.zs}
+[INITIALIZATION][CLIENT][INFO] --- loading AkashicTome.zs ---
+[INITIALIZATION][CLIENT][INFO] --- AkashicTome.zs initialized ---
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: AppliedEnergistics.zs}
+[INITIALIZATION][CLIENT][INFO] --- loading AppliedEnergistics.zs ---
+[INITIALIZATION][CLIENT][INFO] --- AppliedEnergistics.zs initialized ---
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Backpacks.zs}
+[INITIALIZATION][CLIENT][INFO] --- loading Backpacks.zs ---
+[INITIALIZATION][CLIENT][INFO] --- Backpacks.zs initialized ---
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Bibliocraft.zs}
+[INITIALIZATION][CLIENT][INFO] --- loading Bibliocraft.zs ---
+[INITIALIZATION][CLIENT][INFO] --- Bibliocraft.zs initialized ---
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: BiomesOPlenty.zs}
+[INITIALIZATION][CLIENT][INFO] --- loading BiomesOPlenty.zs ---
+[INITIALIZATION][CLIENT][INFO] --- BiomesOPlenty.zs initialized ---
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Chisel.zs}
+[INITIALIZATION][CLIENT][INFO] --- loading Chisel.zs ---
+[INITIALIZATION][CLIENT][INFO] --- Chisel.zs initialized ---
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: ChiselsAndBits.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Cyclic.zs}
+[INITIALIZATION][CLIENT][INFO] Setting max damage of  Mattock to 4500
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Embers.zs}
+[INITIALIZATION][CLIENT][INFO] --- loading Embers.zs ---
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: ExtraUtilities2.zs}
+[INITIALIZATION][CLIENT][INFO] --- loading ExtraUtilities2.zs ---
+[INITIALIZATION][CLIENT][INFO] Adding Golden Lasso to ore dictionary entry ringChicks
+[INITIALIZATION][CLIENT][INFO] Adding Golden Lasso to ore dictionary entry ringChicks
+[INITIALIZATION][CLIENT][INFO] Adding Golden Lasso to ore dictionary entry ringChicks
+[INITIALIZATION][CLIENT][INFO] Adding Golden Lasso to ore dictionary entry ringChicks
+[INITIALIZATION][CLIENT][INFO] Adding Golden Lasso to ore dictionary entry ringChicks
+[INITIALIZATION][CLIENT][INFO] Adding Golden Lasso to ore dictionary entry ringChicks
+[INITIALIZATION][CLIENT][INFO] Adding Golden Lasso to ore dictionary entry ringChicks
+[INITIALIZATION][CLIENT][INFO] Adding Golden Lasso to ore dictionary entry ringChicks
+[INITIALIZATION][CLIENT][INFO] Adding Golden Lasso to ore dictionary entry ringChicks
+[INITIALIZATION][CLIENT][INFO] Adding Golden Lasso to ore dictionary entry ringChicks
+[INITIALIZATION][CLIENT][INFO] Adding Golden Lasso to ore dictionary entry ringChicks
+[INITIALIZATION][CLIENT][INFO] Adding Golden Lasso to ore dictionary entry ringChicks
+[INITIALIZATION][CLIENT][INFO] Adding Golden Lasso to ore dictionary entry ringChicks
+[INITIALIZATION][CLIENT][INFO] Adding Golden Lasso to ore dictionary entry ringChicks
+[INITIALIZATION][CLIENT][INFO] Adding Golden Lasso to ore dictionary entry ringChicks
+[INITIALIZATION][CLIENT][INFO] Adding Golden Lasso to ore dictionary entry ringChicks
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: FluidCompatibility.zs}
+[INITIALIZATION][CLIENT][INFO] --- loading FluidCompatibility.zs ---
+[INITIALIZATION][CLIENT][INFO] Adding nuclearcraft_melter recipe: 1 x ore:nuggetAlumite -> 16 x alumite
+[INITIALIZATION][CLIENT][INFO] Adding nuclearcraft_melter recipe: 1 x ore:ingotAlumite -> 144 x alumite
+[INITIALIZATION][CLIENT][INFO] Adding nuclearcraft_melter recipe: 1 x ore:blockAlumite -> 1296 x alumite
+[INITIALIZATION][CLIENT][INFO] Adding nuclearcraft_melter recipe: 1 x ore:nuggetRefinedObsidian -> 16 x refinedobsidian
+[INITIALIZATION][CLIENT][INFO] Adding nuclearcraft_melter recipe: 1 x ore:ingotRefinedObsidian -> 144 x refinedobsidian
+[INITIALIZATION][CLIENT][INFO] Adding nuclearcraft_melter recipe: 1 x ore:blockRefinedObsidian -> 1296 x refinedobsidian
+[INITIALIZATION][CLIENT][INFO] Adding nuclearcraft_melter recipe: 1 x ore:nuggetOsgloglas -> 16 x osgloglas
+[INITIALIZATION][CLIENT][INFO] Adding nuclearcraft_melter recipe: 1 x ore:ingotOsgloglas -> 144 x osgloglas
+[INITIALIZATION][CLIENT][INFO] Adding nuclearcraft_melter recipe: 1 x ore:blockOsgloglas -> 1296 x osgloglas
+[INITIALIZATION][CLIENT][INFO] Adding nuclearcraft_melter recipe: 1 x ore:nuggetRefinedGlowstone -> 16 x refinedglowstone
+[INITIALIZATION][CLIENT][INFO] Adding nuclearcraft_melter recipe: 1 x ore:ingotRefinedGlowstone -> 144 x refinedglowstone
+[INITIALIZATION][CLIENT][INFO] Adding nuclearcraft_melter recipe: 1 x ore:blockRefinedGlowstone -> 1296 x refinedglowstone
+[INITIALIZATION][CLIENT][INFO] Adding nuclearcraft_melter recipe: 1 x ore:nuggetOsmiridium -> 16 x osmiridium
+[INITIALIZATION][CLIENT][INFO] Adding nuclearcraft_melter recipe: 1 x ore:ingotOsmiridium -> 144 x osmiridium
+[INITIALIZATION][CLIENT][INFO] Adding nuclearcraft_melter recipe: 1 x ore:blockOsmiridium -> 1296 x osmiridium
+[INITIALIZATION][CLIENT][INFO] Adding nuclearcraft_melter recipe: 1 x ore:nuggetElvenElementium -> 16 x elementium
+[INITIALIZATION][CLIENT][INFO] Adding nuclearcraft_melter recipe: 1 x ore:ingotElvenElementium -> 144 x elementium
+[INITIALIZATION][CLIENT][INFO] Adding nuclearcraft_melter recipe: 1 x tile.storage:2 -> 1296 x elementium
+[INITIALIZATION][CLIENT][INFO] Adding nuclearcraft_melter recipe: 1 x ore:nuggetMirion -> 16 x mirion
+[INITIALIZATION][CLIENT][INFO] Adding nuclearcraft_melter recipe: 1 x ore:ingotMirion -> 144 x mirion
+[INITIALIZATION][CLIENT][INFO] Adding nuclearcraft_melter recipe: 1 x ore:blockMirion -> 1296 x mirion
+[INITIALIZATION][CLIENT][INFO] Adding nuclearcraft_melter recipe: 1 x item.material:1 -> 144 x psimetal
+[INITIALIZATION][CLIENT][INFO] Adding nuclearcraft_melter recipe: 1 x item.material:0 -> 144 x psimetal
+[INITIALIZATION][CLIENT][INFO] Adding nuclearcraft_melter recipe: 1 x tile.psi_decorative:1 -> 1296 x psimetal
+[INITIALIZATION][CLIENT][INFO] Adding nuclearcraft_melter recipe: 1 x tile.psi_decorative:0 -> 1296 x psimetal
+[INITIALIZATION][CLIENT][INFO] Adding nuclearcraft_melter recipe: 1 x ore:nuggetThaumium -> 16 x thaumium
+[INITIALIZATION][CLIENT][INFO] Adding nuclearcraft_melter recipe: 1 x ore:ingotThaumium -> 144 x thaumium
+[INITIALIZATION][CLIENT][INFO] Adding nuclearcraft_melter recipe: 1 x ore:blockThaumium -> 1296 x thaumium
+[INITIALIZATION][CLIENT][INFO] Adding nuclearcraft_melter recipe: 1 x tile.storage:0 -> 1296 x manasteel
+[INITIALIZATION][CLIENT][INFO] Adding nuclearcraft_melter recipe: 1 x tile.storage:1 -> 1296 x terrasteel
+[INITIALIZATION][CLIENT][INFO] --- FluidCompatibility.zs initialized ---
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Furnace.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Harvestcraft.zs}
+[INITIALIZATION][CLIENT][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: ImmersiveEngineering.zs}
+[INITIALIZATION][CLIENT][INFO] --- loading ImmersiveEngineering.zs ---
+[INITIALIZATION][CLIENT][INFO] --- ImmersiveEngineering.zs initialized ---
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: IndustrialCraft2.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: IndustrialForegoing.zs}
+[INITIALIZATION][CLIENT][INFO] --- loading IndustrialForegoing.zs ---
+[INITIALIZATION][CLIENT][INFO] Adding FluidDictionary Entry seed.oil * 1.0 = seed_oil
+[INITIALIZATION][CLIENT][INFO] Adding FluidDictionary Entry sulfuric_acid * 1.0 = sulfuricacid
+[INITIALIZATION][CLIENT][INFO] Adding FluidDictionary Entry hydrogen * 1.0 = ic2hydrogen
+[INITIALIZATION][CLIENT][INFO] Adding FluidDictionary Entry hydrogen * 1.0 = liquidhydrogen
+[INITIALIZATION][CLIENT][INFO] Adding FluidDictionary Entry liquidhydrogen * 1.0 = ic2hydrogen
+[INITIALIZATION][CLIENT][INFO] Adding Protein Reactor Entry Raw Turkey Leg
+[INITIALIZATION][CLIENT][INFO] Adding Protein Reactor Entry Raw Venison
+[INITIALIZATION][CLIENT][INFO] Adding Protein Reactor Entry Bee Grub
+[INITIALIZATION][CLIENT][INFO] Adding Protein Reactor Entry Raw Tofeak
+[INITIALIZATION][CLIENT][INFO] Adding Protein Reactor Entry Raw Tofacon
+[INITIALIZATION][CLIENT][INFO] Adding Protein Reactor Entry Raw Tofutton
+[INITIALIZATION][CLIENT][INFO] Adding Protein Reactor Entry Raw Toficken
+[INITIALIZATION][CLIENT][INFO] Adding Protein Reactor Entry Raw Tofabbit
+[INITIALIZATION][CLIENT][INFO] Adding Protein Reactor Entry Raw Tofurkey
+[INITIALIZATION][CLIENT][INFO] Adding Protein Reactor Entry Raw Tofenison
+[INITIALIZATION][CLIENT][INFO] Adding Protein Reactor Entry Raw Tofuduck
+[INITIALIZATION][CLIENT][INFO] Adding Protein Reactor Entry Ground Beef
+[INITIALIZATION][CLIENT][INFO] Adding Protein Reactor Entry Ground Chicken
+[INITIALIZATION][CLIENT][INFO] Adding Protein Reactor Entry Ground Duck
+[INITIALIZATION][CLIENT][INFO] Adding Protein Reactor Entry Ground Fish
+[INITIALIZATION][CLIENT][INFO] Adding Protein Reactor Entry Ground Mutton
+[INITIALIZATION][CLIENT][INFO] Adding Protein Reactor Entry Ground Pork
+[INITIALIZATION][CLIENT][INFO] Adding Protein Reactor Entry Ground Rabbit
+[INITIALIZATION][CLIENT][INFO] Adding Protein Reactor Entry Ground Turkey
+[INITIALIZATION][CLIENT][INFO] Adding Protein Reactor Entry Ground Venison
+[INITIALIZATION][CLIENT][INFO] Adding Protein Reactor Entry Raw Beef
+[INITIALIZATION][CLIENT][INFO] Adding Protein Reactor Entry Raw Chicken
+[INITIALIZATION][CLIENT][INFO] Adding Protein Reactor Entry Raw Porkchop
+[INITIALIZATION][CLIENT][INFO] Adding Protein Reactor Entry Raw Mutton
+[INITIALIZATION][CLIENT][INFO] Adding Protein Reactor Entry Raw Turkey
+[INITIALIZATION][CLIENT][INFO] Adding Protein Reactor Entry Raw Rabbit
+[INITIALIZATION][CLIENT][INFO] Adding Protein Reactor Entry Raw Venison
+[INITIALIZATION][CLIENT][INFO] Adding Protein Reactor Entry Raw Duck
+[INITIALIZATION][CLIENT][INFO] Adding Protein Reactor Entry Venison
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Breadfruit
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Mustard Seeds
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Spice Leaf
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Ginger
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Garlic
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Peanut
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Oats
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Barley
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Chili Pepper
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Pecan
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Pistachio
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Almond
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Kenaf
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Millet
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Cashew
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Sisal
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Quinoa
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Jute
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Flax
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Amaranth
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Kale
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Chestnut
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Walnut
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Barley Seeds
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Cotton Seeds
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Seeds
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Beetroot Seeds
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Pumpkin Seeds
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Melon Seeds
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Spinach Seed
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Kiwi Seed
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Cabbage Seed
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Corn Seed
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Cucumber Seed
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Onion Seed
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Artichoke Seed
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Cotton Seed
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Cactus Fruit Seed
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Elderberry Seed
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Spice Leaf Seed
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Arrowroot Seed
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Kohlrabi Seed
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Mustard Seed
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Candleberry Seed
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Beet Seed
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Bean Seed
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Eggplant Seed
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Giga Pickle Seed
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Raspberry Seed
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Blueberry Seed
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Chili Pepper Seed
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Grape Seed
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Mulberry Seed
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Lettuce Seed
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Tomatillo Seed
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Curry Leaf Seed
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Quinoa Seed
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Millet Seed
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Rhubarb Seed
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Ginger Seed
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Asparagus Seed
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Cantaloupe Seed
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Winter Squash Seed
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Rutabaga Seed
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Brussel Sprout Seed
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Okra Seed
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Sesame Seeds Seed
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Cauliflower Seed
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Radish Seed
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Broccoli Seed
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Zucchini Seed
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Tomato Seed
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Scallion Seed
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Jute Seed
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Sisal Seed
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Water Chestnut Seed
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Bamboo Shoot Seed
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Flax Seed
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Celery Seed
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Peas Seed
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Cassava Seed
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Peanut Seed
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Tea Seed
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Taro Seed
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Parsnip Seed
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Soybean Seed
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Garlic Seed
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Coffee Seed
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Oats Seed
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Jicama Seed
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Strawberry Seed
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Seaweed Seed
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Barley Seed
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Kenaf Seed
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry White Mushroom Spore
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Rice Seed
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Lentil Seed
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Sweet Potato Seed
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Leek Seed
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Agave Seed
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Amaranth Seed
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Chickpea Seed
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Green Grape Seed
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Pineapple Seed
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Blackberry Seed
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Huckleberry Seed
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Juniperberry Seed
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Cranberry Seed
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Bellpepper Seed
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Turnip Seed
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Kale Seed
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Rye Seed
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Aubergine Seed
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Tomato
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Carrot
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Potato
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Pumpkin
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Asparagus
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Beans
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Beet
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Beetroot
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Broccoli
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Cauliflower
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Celery
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Leek
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Lettuce
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Onion
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Parsnip
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Radish
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Rutabaga
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Scallion
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Soybean
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Sweet Potato
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Turnip
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry White Mushroom
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Artichoke
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Bellpepper
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Brussel Sprout
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Cabbage
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Corn
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Cucumber
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Eggplant
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Okra
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Peas
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Rhubarb
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Seaweed
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Tomato
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Winter Squash
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Zucchini
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Bamboo Shoot
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Spinach
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Water Chestnut
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Arrowroot
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Cassava
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Chickpeas
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Jicama
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Kohlrabi
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Lentils
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Taro
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Tomatillo
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Jackfruit
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Tamarind
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Aubergine
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Peach
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Persimmon
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Pear
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Crabapple
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Orange
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Kumquat
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Lime
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Wild Cherry
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Sour Cherry
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Black Cherry
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Blackthorn
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Cherry Plum
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Apricot
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Grapefruit
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Peach
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Satsuma
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Buddhas Hand
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Citron
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Finger Lime
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Key Lime
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Manderin
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Nectarine
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Pomelo
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Tangerine
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Pear
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Sand Pear
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Banana
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Red Banana
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Plantain
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Fig
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Elderberry
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Osange Orange
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Blackcurrant
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Redcurrant
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Blackberry
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Raspberry
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Blueberry
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Cranberry
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Juniper
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Gooseberry
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Golden Raspberry
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Avocado
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Mango
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Starfruit
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Olives
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Ironberries
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Grapes
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Wildberries
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Raspberry
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Blueberry
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Blackberry
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Maloberry
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Blightberry
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Duskberry
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Skyberry
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Stingberry
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Apple
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Chorus Fruit
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Cranberry
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Pineapple
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Blackberry
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Blueberry
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Cactus Fruit
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Cantaloupe
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Grape
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Kiwi
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Raspberry
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Strawberry
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Agave
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Elderberry
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Green Grape
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Huckleberry
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Mulberry
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Juniperberry
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Banana
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Cherry
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Dragonfruit
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Lemon
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Lime
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Mango
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Orange
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Papaya
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Peach
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Pear
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Plum
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Pomegranate
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Starfruit
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Gooseberry
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Apricot
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Date
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Fig
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Grapefruit
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Persimmon
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Pawpaw
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Soursop
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Guava
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Lychee
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Passion Fruit
+[INITIALIZATION][CLIENT][INFO] Adding BioReactor Entry Rambutan
+[INITIALIZATION][CLIENT][INFO] --- IndustrialForegoing.zs initialized ---
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: IntegratedDynamics.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: JEICategories.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Mekanism.zs}
+[INITIALIZATION][CLIENT][INFO] --- loading Mekanism.zs ---
+[INITIALIZATION][CLIENT][INFO] Setting max stack size of  Basic Tier Installer to 16
+[INITIALIZATION][CLIENT][INFO] Setting max stack size of  Advanced Tier Installer to 16
+[INITIALIZATION][CLIENT][INFO] Setting max stack size of  Elite Tier Installer to 16
+[INITIALIZATION][CLIENT][INFO] Setting max stack size of  Ultimate Tier Installer to 16
+[INITIALIZATION][CLIENT][INFO] Setting max stack size of  Filter Upgrade to 64
+[INITIALIZATION][CLIENT][INFO] Setting max stack size of  Energy Upgrade to 64
+[INITIALIZATION][CLIENT][INFO] Setting max stack size of  Speed Upgrade to 64
+[INITIALIZATION][CLIENT][INFO] Setting max stack size of  Muffling Upgrade to 64
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: MiscRecipes.zs}
+[INITIALIZATION][CLIENT][INFO] --- loading MiscRecipes.zs ---
+[INITIALIZATION][CLIENT][INFO] Adding Diamond Chip to ore dictionary entry nuggetDiamond
+[INITIALIZATION][CLIENT][INFO] Adding Diamond Nugget to ore dictionary entry chipDiamond
+[INITIALIZATION][CLIENT][INFO] Removing Metal Press Recipes for Bronze Gear
+[INITIALIZATION][CLIENT][INFO] Removing Metal Press Recipes for Copper Gear
+[INITIALIZATION][CLIENT][INFO] Removing Metal Press Recipes for Tin Gear
+[INITIALIZATION][CLIENT][INFO] Adding Metal Press Recipe for Bronze Gear
+[INITIALIZATION][CLIENT][INFO] Adding Metal Press Recipe for Copper Gear
+[INITIALIZATION][CLIENT][INFO] Adding Metal Press Recipe for Tin Gear
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: MorphOTool.zs}
+[INITIALIZATION][CLIENT][INFO] --- loading MorphOTool.zs ---
+[INITIALIZATION][CLIENT][INFO] --- MorphOTool.zs initialized ---
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: NuclearCraft.zs}
+[INITIALIZATION][CLIENT][INFO] Adding nuclearcraft_electrolyser recipe: 1000 x heavywater -> 500 x deuterium, 500 x deuterium, 500 x oxygen, 50 x tritium
+[INITIALIZATION][CLIENT][INFO] Adding nuclearcraft_electrolyser recipe: 1000 x ic2heavy_water -> 500 x deuterium, 500 x deuterium, 500 x oxygen, 50 x tritium
+[INITIALIZATION][CLIENT][INFO] Adding nuclearcraft_electrolyser recipe: 1000 x water -> 500 x hydrogen, 500 x hydrogen, 50 x deuterium, 500 x oxygen
+[INITIALIZATION][CLIENT][INFO] Removing nuclearcraft_electrolyser recipes for: 950 x deuterium, 500 x oxygen, 50 x tritium, null
+[INITIALIZATION][CLIENT][INFO] Removing nuclearcraft_electrolyser recipes for: 950 x hydrogen, 50 x deuterium, 500 x oxygen, null
+[INITIALIZATION][CLIENT][INFO] Adding nuclearcraft_pressurizer recipe: 1 x ore:ingotIron -> 1 x item.thermalfoundation.material:32
+[INITIALIZATION][CLIENT][INFO] Adding nuclearcraft_pressurizer recipe: 1 x ore:ingotGold -> 1 x item.thermalfoundation.material:33
+[INITIALIZATION][CLIENT][INFO] Adding nuclearcraft_pressurizer recipe: 1 x ore:ingotCopper -> 1 x item.thermalfoundation.material:320
+[INITIALIZATION][CLIENT][INFO] Adding nuclearcraft_pressurizer recipe: 1 x ore:ingotTin -> 1 x item.thermalfoundation.material:321
+[INITIALIZATION][CLIENT][INFO] Adding nuclearcraft_pressurizer recipe: 1 x ore:ingotLead -> 1 x item.thermalfoundation.material:323
+[INITIALIZATION][CLIENT][INFO] Adding nuclearcraft_pressurizer recipe: 1 x ore:ingotBronze -> 1 x item.thermalfoundation.material:355
+[INITIALIZATION][CLIENT][INFO] Adding nuclearcraft_pressurizer recipe: 1 x ore:ingotSteel -> 1 x item.thermalfoundation.material:352
+[INITIALIZATION][CLIENT][INFO] Removing nuclearcraft_pressurizer recipes for: 1 x ic2.plate:0
+[INITIALIZATION][CLIENT][INFO] Removing nuclearcraft_pressurizer recipes for: 1 x ic2.plate:1
+[INITIALIZATION][CLIENT][INFO] Removing nuclearcraft_pressurizer recipes for: 1 x ic2.plate:2
+[INITIALIZATION][CLIENT][INFO] Removing nuclearcraft_pressurizer recipes for: 1 x ic2.plate:3
+[INITIALIZATION][CLIENT][INFO] Removing nuclearcraft_pressurizer recipes for: 1 x ic2.plate:5
+[INITIALIZATION][CLIENT][INFO] Removing nuclearcraft_pressurizer recipes for: 1 x ic2.plate:7
+[INITIALIZATION][CLIENT][INFO] Removing nuclearcraft_pressurizer recipes for: 1 x ic2.plate:8
+[INITIALIZATION][CLIENT][INFO] --- NuclearCraft.zs initialized ---
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: OreDict.zs}
+[INITIALIZATION][CLIENT][INFO] Adding Stone Rod to ore dictionary entry stickStone
+[INITIALIZATION][CLIENT][INFO] Removing Nickel Ore from ore dictionary entry oreNickel
+[INITIALIZATION][CLIENT][INFO] Removing Tin Ore from ore dictionary entry oreTin
+[INITIALIZATION][CLIENT][INFO] Removing Tin Ore from ore dictionary entry oreTin
+[INITIALIZATION][CLIENT][INFO] Removing Tin Ore from ore dictionary entry oreTin
+[INITIALIZATION][CLIENT][INFO] Removing Tin Ore from ore dictionary entry oreTin
+[INITIALIZATION][CLIENT][INFO] Removing Tin Ore from ore dictionary entry oreTin
+[INITIALIZATION][CLIENT][INFO] Removing Bauxite Ore from ore dictionary entry oreAluminum
+[INITIALIZATION][CLIENT][INFO] Removing Aluminum Ore from ore dictionary entry oreAluminum
+[INITIALIZATION][CLIENT][INFO] Removing Copper Ore from ore dictionary entry oreCopper
+[INITIALIZATION][CLIENT][INFO] Removing Copper Ore from ore dictionary entry oreCopper
+[INITIALIZATION][CLIENT][INFO] Removing Copper Ore from ore dictionary entry oreCopper
+[INITIALIZATION][CLIENT][INFO] Removing Copper Ore from ore dictionary entry oreCopper
+[INITIALIZATION][CLIENT][INFO] Removing Copper Ore from ore dictionary entry oreCopper
+[INITIALIZATION][CLIENT][INFO] Removing Copper Ore from ore dictionary entry oreCopper
+[INITIALIZATION][CLIENT][INFO] Removing Lead Ore from ore dictionary entry oreLead
+[INITIALIZATION][CLIENT][INFO] Removing Lead Ore from ore dictionary entry oreLead
+[INITIALIZATION][CLIENT][INFO] Removing Lead Ore from ore dictionary entry oreLead
+[INITIALIZATION][CLIENT][INFO] Removing Uranium Ore from ore dictionary entry oreUranium
+[INITIALIZATION][CLIENT][INFO] Removing Uranium Ore from ore dictionary entry oreUranium
+[INITIALIZATION][CLIENT][INFO] Removing Draconium Ore from ore dictionary entry oreDraconium
+[INITIALIZATION][CLIENT][INFO] Adding Draconium Ore to ore dictionary entry oreDraconium
+[INITIALIZATION][CLIENT][INFO] Adding Nether Draconium Ore to ore dictionary entry oreDraconium
+[INITIALIZATION][CLIENT][INFO] Adding Ender Draconium Ore to ore dictionary entry oreDraconium
+[INITIALIZATION][CLIENT][INFO] Adding Slag to ore dictionary entry crystalSlag
+[INITIALIZATION][CLIENT][INFO] Removing String from ore dictionary entry cropFlax
+[INITIALIZATION][CLIENT][INFO] Adding Oak Boat to ore dictionary entry boat
+[INITIALIZATION][CLIENT][INFO] Adding Spruce Boat to ore dictionary entry boat
+[INITIALIZATION][CLIENT][INFO] Adding Birch Boat to ore dictionary entry boat
+[INITIALIZATION][CLIENT][INFO] Adding Jungle Boat to ore dictionary entry boat
+[INITIALIZATION][CLIENT][INFO] Adding Acacia Boat to ore dictionary entry boat
+[INITIALIZATION][CLIENT][INFO] Adding Dark Oak Boat to ore dictionary entry boat
+[INITIALIZATION][CLIENT][INFO] Adding Sacred Oak Boat to ore dictionary entry boat
+[INITIALIZATION][CLIENT][INFO] Adding Cherry Boat to ore dictionary entry boat
+[INITIALIZATION][CLIENT][INFO] Adding Umbran Boat to ore dictionary entry boat
+[INITIALIZATION][CLIENT][INFO] Adding Fir Boat to ore dictionary entry boat
+[INITIALIZATION][CLIENT][INFO] Adding Ethereal Boat to ore dictionary entry boat
+[INITIALIZATION][CLIENT][INFO] Adding Magic Boat to ore dictionary entry boat
+[INITIALIZATION][CLIENT][INFO] Adding Mangrove Boat to ore dictionary entry boat
+[INITIALIZATION][CLIENT][INFO] Adding Palm Boat to ore dictionary entry boat
+[INITIALIZATION][CLIENT][INFO] Adding Redwood Boat to ore dictionary entry boat
+[INITIALIZATION][CLIENT][INFO] Adding Willow Boat to ore dictionary entry boat
+[INITIALIZATION][CLIENT][INFO] Adding Pine Boat to ore dictionary entry boat
+[INITIALIZATION][CLIENT][INFO] Adding Hellbark Boat to ore dictionary entry boat
+[INITIALIZATION][CLIENT][INFO] Adding Jacaranda Boat to ore dictionary entry boat
+[INITIALIZATION][CLIENT][INFO] Adding Mahogany Boat to ore dictionary entry boat
+[INITIALIZATION][CLIENT][INFO] Adding Ebony Boat to ore dictionary entry boat
+[INITIALIZATION][CLIENT][INFO] Adding Eucalyptus Boat to ore dictionary entry boat
+[INITIALIZATION][CLIENT][INFO] Adding Motorboat to ore dictionary entry boat
+[INITIALIZATION][CLIENT][INFO] Adding Reinforced Hull to ore dictionary entry boat
+[INITIALIZATION][CLIENT][INFO] Adding Electric Boat to ore dictionary entry boat
+[INITIALIZATION][CLIENT][INFO] Adding Mycelial Netherrack to ore dictionary entry mycelium
+[INITIALIZATION][CLIENT][INFO] Removing Industrial Diamond from ore dictionary entry gemDiamond
+[INITIALIZATION][CLIENT][INFO] Adding Pillar of Black Quartz to ore dictionary entry blockBlackQuartz
+[INITIALIZATION][CLIENT][INFO] Adding Chiseled Block of Black Quartz to ore dictionary entry blockBlackQuartz
+[INITIALIZATION][CLIENT][INFO] Adding Block of Black Quartz to ore dictionary entry blockBlackQuartz
+[INITIALIZATION][CLIENT][INFO] Adding Certus Quartz Crystal to ore dictionary entry crystalCertus
+[INITIALIZATION][CLIENT][INFO] Adding Charged Certus Quartz Crystal to ore dictionary entry crystalCertus
+[INITIALIZATION][CLIENT][INFO] Adding Pure Certus Quartz Crystal to ore dictionary entry crystalCertus
+[INITIALIZATION][CLIENT][INFO] Adding Certus Quartz Block to ore dictionary entry blockCertusQuartz
+[INITIALIZATION][CLIENT][INFO] Adding Certus Quartz Pillar to ore dictionary entry blockCertusQuartz
+[INITIALIZATION][CLIENT][INFO] Adding Chiseled Certus Quartz Block to ore dictionary entry blockCertusQuartz
+[INITIALIZATION][CLIENT][INFO] Adding Iridium Ore to ore dictionary entry ingotIridium
+[INITIALIZATION][CLIENT][INFO] Adding Iridium Shard to ore dictionary entry nuggetIridium
+[INITIALIZATION][CLIENT][INFO] Adding Engineer's Hammer to ore dictionary entry craftingToolForgeHammer
+[INITIALIZATION][CLIENT][INFO] Adding Raw Venison to ore dictionary entry listAllbeefraw
+[INITIALIZATION][CLIENT][INFO] Adding Raw Venison to ore dictionary entry listAllmeatraw
+[INITIALIZATION][CLIENT][INFO] Adding Venison Steak to ore dictionary entry listAllbeefcooked
+[INITIALIZATION][CLIENT][INFO] Adding Venison Steak to ore dictionary entry listAllmeatcooked
+[INITIALIZATION][CLIENT][INFO] Adding Void Metal Block to ore dictionary entry blockVoid
+[INITIALIZATION][CLIENT][INFO] Adding Circuit Board to ore dictionary entry circuitBoard
+[INITIALIZATION][CLIENT][INFO] Adding Block of Amber to ore dictionary entry blockAmber
+[INITIALIZATION][CLIENT][INFO] Adding Amber Block to ore dictionary entry blockAmber
+[INITIALIZATION][CLIENT][INFO] Adding Amber Bricks to ore dictionary entry blockAmber
+[INITIALIZATION][CLIENT][INFO] Adding Rock Crystal to ore dictionary entry crystalAstralAny
+[INITIALIZATION][CLIENT][INFO] Adding Attuned Rock Crystal to ore dictionary entry crystalAstralAny
+[INITIALIZATION][CLIENT][INFO] Adding Celestial Crystal to ore dictionary entry crystalAstralAny
+[INITIALIZATION][CLIENT][INFO] Adding Attuned Celestial Crystal to ore dictionary entry crystalAstralAny
+[INITIALIZATION][CLIENT][INFO] Adding Blank Rune to ore dictionary entry runeBlood
+[INITIALIZATION][CLIENT][INFO] Adding Speed Rune to ore dictionary entry runeBlood
+[INITIALIZATION][CLIENT][INFO] Adding Efficiency Rune to ore dictionary entry runeBlood
+[INITIALIZATION][CLIENT][INFO] Adding Rune of Sacrifice to ore dictionary entry runeBlood
+[INITIALIZATION][CLIENT][INFO] Adding Rune of Self Sacrifice to ore dictionary entry runeBlood
+[INITIALIZATION][CLIENT][INFO] Adding Displacement Rune to ore dictionary entry runeBlood
+[INITIALIZATION][CLIENT][INFO] Adding Rune of Capacity to ore dictionary entry runeBlood
+[INITIALIZATION][CLIENT][INFO] Adding Rune of Augmented Capacity to ore dictionary entry runeBlood
+[INITIALIZATION][CLIENT][INFO] Adding Rune of the Orb to ore dictionary entry runeBlood
+[INITIALIZATION][CLIENT][INFO] Adding Acceleration Rune to ore dictionary entry runeBlood
+[INITIALIZATION][CLIENT][INFO] Adding Charging Rune to ore dictionary entry runeBlood
+[INITIALIZATION][CLIENT][INFO] Adding Cake to ore dictionary entry foodCake
+[INITIALIZATION][CLIENT][INFO] Adding Chocolate Cake to ore dictionary entry foodCake
+[INITIALIZATION][CLIENT][INFO] Adding Carrot Cake to ore dictionary entry foodCake
+[INITIALIZATION][CLIENT][INFO] Adding Cheese Cake to ore dictionary entry foodCake
+[INITIALIZATION][CLIENT][INFO] Adding Cherry Cheese Cake to ore dictionary entry foodCake
+[INITIALIZATION][CLIENT][INFO] Adding Chocolate Sprinkles Cake to ore dictionary entry foodCake
+[INITIALIZATION][CLIENT][INFO] Adding Holiday Cake to ore dictionary entry foodCake
+[INITIALIZATION][CLIENT][INFO] Adding Pineapple Upside Down Cake to ore dictionary entry foodCake
+[INITIALIZATION][CLIENT][INFO] Adding Pumpkin Cheese Cake to ore dictionary entry foodCake
+[INITIALIZATION][CLIENT][INFO] Adding Red Velvet Cake to ore dictionary entry foodCake
+[INITIALIZATION][CLIENT][INFO] Adding Lemon Drizzle Cake to ore dictionary entry foodCake
+[INITIALIZATION][CLIENT][INFO] Adding Wither Dust to ore dictionary entry dustWither
+[INITIALIZATION][CLIENT][INFO] Adding Wither Ash to ore dictionary entry dustWither
+[INITIALIZATION][CLIENT][INFO] Adding Marble to ore dictionary entry blockMarble
+[INITIALIZATION][CLIENT][INFO] Adding Fertilizer to ore dictionary entry fertilizer
+[INITIALIZATION][CLIENT][INFO] Adding Bone Meal to ore dictionary entry fertilizer
+[INITIALIZATION][CLIENT][INFO] Adding Fertilizer to ore dictionary entry fertilizer
+[INITIALIZATION][CLIENT][INFO] Adding Fertilizer to ore dictionary entry fertilizer
+[INITIALIZATION][CLIENT][INFO] Adding Sawdust to ore dictionary entry pulpWood
+[INITIALIZATION][CLIENT][INFO] Adding Wood Pulp to ore dictionary entry dustWood
+[INITIALIZATION][CLIENT][INFO] Adding Diamond Chip to ore dictionary entry nuggetDiamond
+[INITIALIZATION][CLIENT][INFO] Adding Diamond Nugget to ore dictionary entry chipDiamond
+[INITIALIZATION][CLIENT][INFO] Adding Marble to ore dictionary entry stoneMarblePolished
+[INITIALIZATION][CLIENT][INFO] Adding Marble Bricks to ore dictionary entry stoneMarblePolished
+[INITIALIZATION][CLIENT][INFO] Adding Marble Pillar to ore dictionary entry stoneMarblePolished
+[INITIALIZATION][CLIENT][INFO] Adding Marble Arch to ore dictionary entry stoneMarblePolished
+[INITIALIZATION][CLIENT][INFO] Adding Chiseled Marble to ore dictionary entry stoneMarblePolished
+[INITIALIZATION][CLIENT][INFO] Adding Engraved Marble to ore dictionary entry stoneMarblePolished
+[INITIALIZATION][CLIENT][INFO] Adding Runed Marble to ore dictionary entry stoneMarblePolished
+[INITIALIZATION][CLIENT][INFO] Removing Tin Gear from ore dictionary entry gearTin
+[INITIALIZATION][CLIENT][INFO] Removing Copper Gear from ore dictionary entry gearCopper
+[INITIALIZATION][CLIENT][INFO] Removing Bronze Gear from ore dictionary entry gearBronze
+[INITIALIZATION][CLIENT][INFO] Adding Salt to ore dictionary entry itemSalt
+[INITIALIZATION][CLIENT][INFO] Adding Salt to ore dictionary entry foodSalt
+[INITIALIZATION][CLIENT][INFO] Adding Salt to ore dictionary entry dustSalt
+[INITIALIZATION][CLIENT][INFO] Adding Marble Bricks to ore dictionary entry stoneMarble
+[INITIALIZATION][CLIENT][INFO] Adding Polished Marble to ore dictionary entry stoneMarble
+[INITIALIZATION][CLIENT][INFO] Adding Polished Sandstone to ore dictionary entry sandstone
+[INITIALIZATION][CLIENT][INFO] Adding Sandstone Bricks to ore dictionary entry sandstone
+[INITIALIZATION][CLIENT][INFO] Adding Polished Red Sandstone to ore dictionary entry sandstone
+[INITIALIZATION][CLIENT][INFO] Adding Red Sandstone Bricks to ore dictionary entry sandstone
+[INITIALIZATION][CLIENT][INFO] Adding Diorite Bricks to ore dictionary entry stoneDiorite
+[INITIALIZATION][CLIENT][INFO] Adding Andesite Bricks to ore dictionary entry stoneAndesite
+[INITIALIZATION][CLIENT][INFO] Adding Granite Bricks to ore dictionary entry stoneGranite
+[INITIALIZATION][CLIENT][INFO] Adding Basalt Bricks to ore dictionary entry stoneBasalt
+[INITIALIZATION][CLIENT][INFO] Adding Polished Limestone to ore dictionary entry stoneLimestone
+[INITIALIZATION][CLIENT][INFO] Adding Limestone Bricks to ore dictionary entry stoneLimestone
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: OreDictATM.zs}
+[INITIALIZATION][CLIENT][INFO] --- loading OreDictATM.zs, made by Ordinator & the AllTheMods team ---
+[INITIALIZATION][CLIENT][INFO] Adding White Painted Wood to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Orange Painted Wood to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Purple Painted Wood to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Blue Painted Wood to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Brown Painted Wood to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Green Painted Wood to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Red Painted Wood to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Black Painted Wood to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Magenta Painted Wood to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Light Blue Painted Wood to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Yellow Painted Wood to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Lime Painted Wood to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Pink Painted Wood to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Gray Painted Wood to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Light Gray Painted Wood to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Cyan Painted Wood to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Sacred Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Cherry Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Umbran Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Fir Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Ethereal Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Magic Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Mangrove Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Palm Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Redwood Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Willow Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Pine Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Hellbark Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Jacaranda Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Mahogany Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Ebony Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Eucalyptus Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Acacia Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Acacia Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Acacia Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Acacia Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Acacia Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Acacia Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Acacia Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Acacia Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Acacia Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Acacia Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Acacia Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Acacia Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Acacia Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Acacia Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Acacia Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Birch Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Birch Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Birch Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Birch Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Birch Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Birch Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Birch Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Birch Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Birch Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Birch Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Birch Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Birch Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Birch Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Birch Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Birch Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Dark Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Dark Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Dark Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Dark Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Dark Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Dark Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Dark Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Dark Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Dark Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Dark Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Dark Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Dark Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Dark Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Dark Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Dark Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Jungle Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Jungle Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Jungle Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Jungle Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Jungle Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Jungle Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Jungle Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Jungle Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Jungle Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Jungle Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Jungle Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Jungle Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Jungle Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Jungle Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Jungle Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Spruce Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Spruce Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Spruce Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Spruce Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Spruce Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Spruce Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Spruce Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Spruce Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Spruce Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Spruce Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Spruce Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Spruce Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Spruce Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Spruce Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Spruce Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Sealed Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Larch Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Teak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Desert Acacia Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Lime Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Chestnut Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Wenge Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Baobab Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Sequoia Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Kapok Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Ebony Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Mahogany Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Balsa Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Willow Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Walnut Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Greenheart Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Cherry Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Mahoe Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Poplar Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Palm Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Papaya Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Pine Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Plum Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Maple Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Citrus Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Giant Sequoia Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Ipe Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Padauk Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Cocobolo Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Zebrawood Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Larch Wood Planks (Fireproof) to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Teak Wood Planks (Fireproof) to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Desert Acacia Wood Planks (Fireproof) to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Lime Wood Planks (Fireproof) to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Chestnut Wood Planks (Fireproof) to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Wenge Wood Planks (Fireproof) to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Baobab Wood Planks (Fireproof) to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Sequoia Wood Planks (Fireproof) to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Kapok Wood Planks (Fireproof) to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Ebony Wood Planks (Fireproof) to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Mahogany Wood Planks (Fireproof) to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Balsa Wood Planks (Fireproof) to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Willow Wood Planks (Fireproof) to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Walnut Wood Planks (Fireproof) to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Greenheart Wood Planks (Fireproof) to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Cherry Wood Planks (Fireproof) to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Mahoe Wood Planks (Fireproof) to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Poplar Wood Planks (Fireproof) to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Palm Wood Planks (Fireproof) to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Papaya Wood Planks (Fireproof) to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Pine Wood Planks (Fireproof) to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Plum Wood Planks (Fireproof) to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Maple Wood Planks (Fireproof) to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Citrus Wood Planks (Fireproof) to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Giant Sequoia Wood Planks (Fireproof) to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Ipe Wood Planks (Fireproof) to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Padauk Wood Planks (Fireproof) to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Cocobolo Wood Planks (Fireproof) to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Zebrawood Wood Planks (Fireproof) to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Oak Wood Planks (Fireproof) to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Spruce Wood Planks (Fireproof) to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Birch Wood Planks (Fireproof) to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Jungle Wood Planks (Fireproof) to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Acacia Wood Planks (Fireproof) to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Dark Oak Wood Planks (Fireproof) to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Spruce Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Birch Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Jungle Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Acacia Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Dark Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Olive Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Ironwood Planks to ore dictionary entry plankWood
+[INITIALIZATION][CLIENT][INFO] Adding Crafting Table On A Stick to ore dictionary entry craftingTableWood
+[INITIALIZATION][CLIENT][INFO] Adding Crafting Table to ore dictionary entry craftingTableWood
+[INITIALIZATION][CLIENT][INFO] Adding Crafting Table On A Stick to ore dictionary entry crafterWood
+[INITIALIZATION][CLIENT][INFO] Adding Crafting Table to ore dictionary entry crafterWood
+[INITIALIZATION][CLIENT][INFO] Adding Oak Chest to ore dictionary entry chest
+[INITIALIZATION][CLIENT][INFO] Adding Ender Chest to ore dictionary entry chest
+[INITIALIZATION][CLIENT][INFO] Adding Oak Trapped Chest to ore dictionary entry chest
+[INITIALIZATION][CLIENT][INFO] Adding Treasure Chest to ore dictionary entry chest
+[INITIALIZATION][CLIENT][INFO] Adding Oak Framed Chest to ore dictionary entry chest
+[INITIALIZATION][CLIENT][INFO] Adding Spruce Framed Chest to ore dictionary entry chest
+[INITIALIZATION][CLIENT][INFO] Adding Birch Framed Chest to ore dictionary entry chest
+[INITIALIZATION][CLIENT][INFO] Adding Jungle Framed Chest to ore dictionary entry chest
+[INITIALIZATION][CLIENT][INFO] Adding Acacia Framed Chest to ore dictionary entry chest
+[INITIALIZATION][CLIENT][INFO] Adding Dark Oak Framed Chest to ore dictionary entry chest
+[INITIALIZATION][CLIENT][INFO] Adding Framed Framed Chest to ore dictionary entry chest
+[INITIALIZATION][CLIENT][INFO] Adding Spruce Chest to ore dictionary entry chest
+[INITIALIZATION][CLIENT][INFO] Adding Birch Chest to ore dictionary entry chest
+[INITIALIZATION][CLIENT][INFO] Adding Jungle Chest to ore dictionary entry chest
+[INITIALIZATION][CLIENT][INFO] Adding Acacia Chest to ore dictionary entry chest
+[INITIALIZATION][CLIENT][INFO] Adding Dark Oak Chest to ore dictionary entry chest
+[INITIALIZATION][CLIENT][INFO] Adding Spruce Trapped Chest to ore dictionary entry chest
+[INITIALIZATION][CLIENT][INFO] Adding Birch Trapped Chest to ore dictionary entry chest
+[INITIALIZATION][CLIENT][INFO] Adding Jungle Trapped Chest to ore dictionary entry chest
+[INITIALIZATION][CLIENT][INFO] Adding Acacia Trapped Chest to ore dictionary entry chest
+[INITIALIZATION][CLIENT][INFO] Adding Dark Oak Trapped Chest to ore dictionary entry chest
+[INITIALIZATION][CLIENT][INFO] Adding Oak Chest to ore dictionary entry chestWood
+[INITIALIZATION][CLIENT][INFO] Adding Oak Trapped Chest to ore dictionary entry chestWood
+[INITIALIZATION][CLIENT][INFO] Adding Oak Framed Chest to ore dictionary entry chestWood
+[INITIALIZATION][CLIENT][INFO] Adding Spruce Framed Chest to ore dictionary entry chestWood
+[INITIALIZATION][CLIENT][INFO] Adding Birch Framed Chest to ore dictionary entry chestWood
+[INITIALIZATION][CLIENT][INFO] Adding Jungle Framed Chest to ore dictionary entry chestWood
+[INITIALIZATION][CLIENT][INFO] Adding Acacia Framed Chest to ore dictionary entry chestWood
+[INITIALIZATION][CLIENT][INFO] Adding Dark Oak Framed Chest to ore dictionary entry chestWood
+[INITIALIZATION][CLIENT][INFO] Adding Framed Framed Chest to ore dictionary entry chestWood
+[INITIALIZATION][CLIENT][INFO] Adding Spruce Chest to ore dictionary entry chestWood
+[INITIALIZATION][CLIENT][INFO] Adding Birch Chest to ore dictionary entry chestWood
+[INITIALIZATION][CLIENT][INFO] Adding Jungle Chest to ore dictionary entry chestWood
+[INITIALIZATION][CLIENT][INFO] Adding Acacia Chest to ore dictionary entry chestWood
+[INITIALIZATION][CLIENT][INFO] Adding Dark Oak Chest to ore dictionary entry chestWood
+[INITIALIZATION][CLIENT][INFO] Adding Spruce Trapped Chest to ore dictionary entry chestWood
+[INITIALIZATION][CLIENT][INFO] Adding Birch Trapped Chest to ore dictionary entry chestWood
+[INITIALIZATION][CLIENT][INFO] Adding Jungle Trapped Chest to ore dictionary entry chestWood
+[INITIALIZATION][CLIENT][INFO] Adding Acacia Trapped Chest to ore dictionary entry chestWood
+[INITIALIZATION][CLIENT][INFO] Adding Dark Oak Trapped Chest to ore dictionary entry chestWood
+[INITIALIZATION][CLIENT][INFO] Adding Oak Trapped Chest to ore dictionary entry chestTrapped
+[INITIALIZATION][CLIENT][INFO] Adding Spruce Trapped Chest to ore dictionary entry chestTrapped
+[INITIALIZATION][CLIENT][INFO] Adding Birch Trapped Chest to ore dictionary entry chestTrapped
+[INITIALIZATION][CLIENT][INFO] Adding Jungle Trapped Chest to ore dictionary entry chestTrapped
+[INITIALIZATION][CLIENT][INFO] Adding Acacia Trapped Chest to ore dictionary entry chestTrapped
+[INITIALIZATION][CLIENT][INFO] Adding Dark Oak Trapped Chest to ore dictionary entry chestTrapped
+[INITIALIZATION][CLIENT][INFO] Adding White Bed to ore dictionary entry bed
+[INITIALIZATION][CLIENT][INFO] Adding Orange Bed to ore dictionary entry bed
+[INITIALIZATION][CLIENT][INFO] Adding Magenta Bed to ore dictionary entry bed
+[INITIALIZATION][CLIENT][INFO] Adding Light Blue Bed to ore dictionary entry bed
+[INITIALIZATION][CLIENT][INFO] Adding Yellow Bed to ore dictionary entry bed
+[INITIALIZATION][CLIENT][INFO] Adding Lime Bed to ore dictionary entry bed
+[INITIALIZATION][CLIENT][INFO] Adding Pink Bed to ore dictionary entry bed
+[INITIALIZATION][CLIENT][INFO] Adding Gray Bed to ore dictionary entry bed
+[INITIALIZATION][CLIENT][INFO] Adding Light Gray Bed to ore dictionary entry bed
+[INITIALIZATION][CLIENT][INFO] Adding Cyan Bed to ore dictionary entry bed
+[INITIALIZATION][CLIENT][INFO] Adding Purple Bed to ore dictionary entry bed
+[INITIALIZATION][CLIENT][INFO] Adding Blue Bed to ore dictionary entry bed
+[INITIALIZATION][CLIENT][INFO] Adding Brown Bed to ore dictionary entry bed
+[INITIALIZATION][CLIENT][INFO] Adding Green Bed to ore dictionary entry bed
+[INITIALIZATION][CLIENT][INFO] Adding Red Bed to ore dictionary entry bed
+[INITIALIZATION][CLIENT][INFO] Adding Black Bed to ore dictionary entry bed
+[INITIALIZATION][CLIENT][INFO] Adding Sleeping Mat to ore dictionary entry bed
+[INITIALIZATION][CLIENT][INFO] Adding Wooden Trapdoor to ore dictionary entry trapdoorWood
+[INITIALIZATION][CLIENT][INFO] Adding Treated Wood Trapdoor to ore dictionary entry trapdoorWood
+[INITIALIZATION][CLIENT][INFO] Adding Acacia Trapdoor to ore dictionary entry trapdoorWood
+[INITIALIZATION][CLIENT][INFO] Adding Birch Trapdoor to ore dictionary entry trapdoorWood
+[INITIALIZATION][CLIENT][INFO] Adding Dark Oak Trapdoor to ore dictionary entry trapdoorWood
+[INITIALIZATION][CLIENT][INFO] Adding Jungle Trapdoor to ore dictionary entry trapdoorWood
+[INITIALIZATION][CLIENT][INFO] Adding Spruce Trapdoor to ore dictionary entry trapdoorWood
+[INITIALIZATION][CLIENT][INFO] Adding Wisdom Wood Trapdoor to ore dictionary entry trapdoorWood
+[INITIALIZATION][CLIENT][INFO] Adding Framed Trapdoor to ore dictionary entry trapdoorWood
+[INITIALIZATION][CLIENT][INFO] Adding Reinforced Framed Trapdoor to ore dictionary entry trapdoorWood
+[INITIALIZATION][CLIENT][INFO] Adding Wildwood Trapdoor to ore dictionary entry trapdoorWood
+[INITIALIZATION][CLIENT][INFO] Adding Cactus Trapdoor to ore dictionary entry trapdoorWood
+[INITIALIZATION][CLIENT][INFO] Adding Twilight Oak Trapdoor to ore dictionary entry trapdoorWood
+[INITIALIZATION][CLIENT][INFO] Adding Canopy Trapdoor to ore dictionary entry trapdoorWood
+[INITIALIZATION][CLIENT][INFO] Adding Mangrove Trapdoor to ore dictionary entry trapdoorWood
+[INITIALIZATION][CLIENT][INFO] Adding Darkwood Trapdoor to ore dictionary entry trapdoorWood
+[INITIALIZATION][CLIENT][INFO] Adding Timewood Trapdoor to ore dictionary entry trapdoorWood
+[INITIALIZATION][CLIENT][INFO] Adding Minewood Trapdoor to ore dictionary entry trapdoorWood
+[INITIALIZATION][CLIENT][INFO] Adding Sortingwood Trapdoor to ore dictionary entry trapdoorWood
+[INITIALIZATION][CLIENT][INFO] Adding Oak Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Fir Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Cherry Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Ebony Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Ethereal Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Eucalyptus Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Hellbark Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Jacaranda Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Magic Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Mahogany Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Mangrove Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Palm Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Pine Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Redwood Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Sacred Oak Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Umbran Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Willow Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Apple Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Fig Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Butternut Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Whitebeam Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Rowan Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Hemlock Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Ash Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Alder Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Beech Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Hawthorn Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Banana Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Yew Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Cypress Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Fir Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Hazel Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Hickory Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Elder Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Maclura Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Holly Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Hornbeam Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Cedar Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Olive Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Sweetgum Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Locust Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Pear Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Elm Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Brazilwood Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Logwood Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Rosewood Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Purpleheart Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Iroko Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Gingko Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Eucalyptus Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Box Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Syzgium Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Pink Ivory Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Desert Acacia Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Balsa Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Baobab Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Cherry Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Chestnut Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Citrus Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Cocobolo Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Ebony Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Giant Sequoia Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Greenheart Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Ipe Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Kapok Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Larch Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Lime Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Mahoe Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Mahogany Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Maple Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Padauk Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Palm Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Papaya Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Pine Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Plum Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Poplar Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Sequoia Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Teak Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Walnut Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Wenge Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Willow Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Zebrawood Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Acacia Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Jungle Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Birch Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Spruce Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] Adding Dark Oak Door to ore dictionary entry doorWood
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: PlankWoodFix.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Plates.zs}
+[INITIALIZATION][CLIENT][INFO] --- loading Plates.zs ---
+[INITIALIZATION][CLIENT][INFO] Removing Metal Press Recipes for Copper Plate
+[INITIALIZATION][CLIENT][INFO] Removing Metal Press Recipes for Aluminium Plate
+[INITIALIZATION][CLIENT][INFO] Removing Metal Press Recipes for Lead Plate
+[INITIALIZATION][CLIENT][INFO] Removing Metal Press Recipes for Silver Plate
+[INITIALIZATION][CLIENT][INFO] Removing Metal Press Recipes for Nickel Plate
+[INITIALIZATION][CLIENT][INFO] Removing Metal Press Recipes for Constantan Plate
+[INITIALIZATION][CLIENT][INFO] Removing Metal Press Recipes for Electrum Plate
+[INITIALIZATION][CLIENT][INFO] Removing Metal Press Recipes for Steel Plate
+[INITIALIZATION][CLIENT][INFO] Removing Metal Press Recipes for Iron Plate
+[INITIALIZATION][CLIENT][INFO] Removing Metal Press Recipes for Gold Plate
+[INITIALIZATION][CLIENT][INFO] Adding Metal Press Recipe for Iron Plate
+[INITIALIZATION][CLIENT][INFO] Adding Metal Press Recipe for Gold Plate
+[INITIALIZATION][CLIENT][INFO] Adding Metal Press Recipe for Copper Plate
+[INITIALIZATION][CLIENT][INFO] Adding Metal Press Recipe for Tin Plate
+[INITIALIZATION][CLIENT][INFO] Adding Metal Press Recipe for Silver Plate
+[INITIALIZATION][CLIENT][INFO] Adding Metal Press Recipe for Lead Plate
+[INITIALIZATION][CLIENT][INFO] Adding Metal Press Recipe for Aluminum Plate
+[INITIALIZATION][CLIENT][INFO] Adding Metal Press Recipe for Nickel Plate
+[INITIALIZATION][CLIENT][INFO] Adding Metal Press Recipe for Steel Plate
+[INITIALIZATION][CLIENT][INFO] Adding Metal Press Recipe for Electrum Plate
+[INITIALIZATION][CLIENT][INFO] Adding Metal Press Recipe for Bronze Plate
+[INITIALIZATION][CLIENT][INFO] Adding Metal Press Recipe for Constantan Plate
+[INITIALIZATION][CLIENT][INFO] Removing Metal Press Recipes for Tin Plate
+[INITIALIZATION][CLIENT][INFO] Removing Metal Press Recipes for Bronze Plate
+[INITIALIZATION][CLIENT][INFO] Removing Iron Plate from ore dictionary entry plateIron
+[INITIALIZATION][CLIENT][INFO] Removing Iron Plate from ore dictionary entry plateIron
+[INITIALIZATION][CLIENT][INFO] Removing Iron Plate from ore dictionary entry plateIron
+[INITIALIZATION][CLIENT][INFO] Removing Gold Plate from ore dictionary entry plateGold
+[INITIALIZATION][CLIENT][INFO] Removing Gold Plate from ore dictionary entry plateGold
+[INITIALIZATION][CLIENT][INFO] Removing Gold Plate from ore dictionary entry plateGold
+[INITIALIZATION][CLIENT][INFO] Removing Copper Plate from ore dictionary entry plateCopper
+[INITIALIZATION][CLIENT][INFO] Removing Copper Plate from ore dictionary entry plateCopper
+[INITIALIZATION][CLIENT][INFO] Removing Copper Plate from ore dictionary entry plateCopper
+[INITIALIZATION][CLIENT][INFO] Removing Tin Plate from ore dictionary entry plateTin
+[INITIALIZATION][CLIENT][INFO] Removing Tin Plate from ore dictionary entry plateTin
+[INITIALIZATION][CLIENT][INFO] Removing Silver Plate from ore dictionary entry plateSilver
+[INITIALIZATION][CLIENT][INFO] Removing Silver Plate from ore dictionary entry plateSilver
+[INITIALIZATION][CLIENT][INFO] Removing Lead Plate from ore dictionary entry plateLead
+[INITIALIZATION][CLIENT][INFO] Removing Lead Plate from ore dictionary entry plateLead
+[INITIALIZATION][CLIENT][INFO] Removing Lead Plate from ore dictionary entry plateLead
+[INITIALIZATION][CLIENT][INFO] Removing Aluminium Plate from ore dictionary entry plateAluminum
+[INITIALIZATION][CLIENT][INFO] Removing Aluminium Plate from ore dictionary entry plateAluminum
+[INITIALIZATION][CLIENT][INFO] Removing Nickel Plate from ore dictionary entry plateNickel
+[INITIALIZATION][CLIENT][INFO] Removing Nickel Plate from ore dictionary entry plateNickel
+[INITIALIZATION][CLIENT][INFO] Removing Steel Plate from ore dictionary entry plateSteel
+[INITIALIZATION][CLIENT][INFO] Removing Steel Plate from ore dictionary entry plateSteel
+[INITIALIZATION][CLIENT][INFO] Removing Electrum Plate from ore dictionary entry plateElectrum
+[INITIALIZATION][CLIENT][INFO] Removing Electrum Plate from ore dictionary entry plateElectrum
+[INITIALIZATION][CLIENT][INFO] Removing Constantan Plate from ore dictionary entry plateConstantan
+[INITIALIZATION][CLIENT][INFO] Removing Bronze Plate from ore dictionary entry plateBronze
+[INITIALIZATION][CLIENT][INFO] Removing Bronze Plate from ore dictionary entry plateBronze
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: RecipeConflicts.zs}
+[INITIALIZATION][CLIENT][INFO] --- loading RecipeConflicts.zs ---
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Smeltables&Burnables.zs}
+[INITIALIZATION][CLIENT][INFO] --- loading Smeltables&Burnables.zs ---
+[INITIALIZATION][CLIENT][INFO] Setting fuel for <ore:dustSulfur>
+[INITIALIZATION][CLIENT][INFO] Setting fuel for <thermalfoundation:material:832>
+[INITIALIZATION][CLIENT][INFO] Setting fuel for <forestry:resource_storage>
+[INITIALIZATION][CLIENT][INFO] Setting fuel for <forestry:apatite>
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: TempRecipes.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Thaumcraft.zs}
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: ThermalExpansion.zs}
+[INITIALIZATION][CLIENT][INFO] --- loading ThermalExpansion.zs ---
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: TinkersConstruct.zs}
+[INITIALIZATION][CLIENT][INFO] --- loading TinkersConstruct.zs ---
+[INITIALIZATION][CLIENT][INFO] Altering Alloy Recipe(s) for <liquid:steel>
+[INITIALIZATION][CLIENT][INFO] Altering Casting Recipe(s) for <chisel:blockcobalt>
+[INITIALIZATION][CLIENT][INFO] Setting pyrotheum temperature to 5300
+[INITIALIZATION][CLIENT][INFO] Setting xu_demonic_metal temperature to 4000
+[INITIALIZATION][CLIENT][INFO] Setting sulfuricacid temperature to 4000
+[INITIALIZATION][CLIENT][INFO] Setting refined_fuel temperature to 4100
+[INITIALIZATION][CLIENT][INFO] Setting ic2uu_matter temperature to 6800
+[INITIALIZATION][CLIENT][INFO] Setting ic2pahoehoe_lava temperature to 3800
+[INITIALIZATION][CLIENT][INFO] Setting gasoline temperature to 3900
+[INITIALIZATION][CLIENT][INFO] Setting diesel temperature to 3900
+[INITIALIZATION][CLIENT][INFO] Setting astralsorcery.liquidstarlight temperature to 3900
+[INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: Tooltips.zs}
+[INITIALIZATION][CLIENT][INFO] --- loading Tooltips.zs ---
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <bibliocraft:biblioclipboard>: "(Removed due to instability issues)"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <libvulpes:productingot:7>: "(Craftable)"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <natura:redwood_sapling>: "Caution: This tree is insanely big!"
+[INITIALIZATION][CLIENT][INFO] Adding tooltip for <harvestcraft:market>: "Disabled. Use the Market from Farming For Blockheads."
+[INITIALIZATION][CLIENT][INFO] Completed script loading in: 915ms
+[POSTINITIALIZATION][CLIENT][INFO] Removing recipes for various outputs
+[POSTINITIALIZATION][CLIENT][INFO] Removing Shaped recipes for <extrautils2:chickenring>
+[POSTINITIALIZATION][CLIENT][INFO] 1 removed
+[POSTINITIALIZATION][CLIENT][INFO] Removing Shapeless recipes for <minecraft:string> * 4
+[POSTINITIALIZATION][CLIENT][INFO] Removing 0 Shapeless recipes.
+[POSTINITIALIZATION][CLIENT][INFO] Removing Shaped recipes for <minecraft:string> * 4
+[POSTINITIALIZATION][CLIENT][INFO] 0 removed
+[POSTINITIALIZATION][CLIENT][INFO] Removing Shaped recipes for <quark:marble:1>
+[POSTINITIALIZATION][CLIENT][INFO] 0 removed
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Black Quartz with name Block of Black Quartz to Black Quartz
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Black Quartz with name Chiseled Block of Black Quartz to Black Quartz
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Black Quartz with name Pillar of Black Quartz to Black Quartz
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Control Circuit with name AdvancedGenerators Control Circuit
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Enchanted Book with name Airtight Seal Enchant
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Akashic Tome with name SuperTome
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Infinity Booster Card with name WCT Infinity Booster Card
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Oak Creative Bookcase with name Creative Bookcase Main
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Oak Creative Bookcase with name Creative Bookcase0
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Framed Creative Bookcase with name Creative Bookcase6
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Dark Oak Creative Bookcase with name Creative Bookcase5
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Acacia Creative Bookcase with name Creative Bookcase4
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Jungle Creative Bookcase with name Creative Bookcase3
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Birch Creative Bookcase with name Creative Bookcase2
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Spruce Creative Bookcase with name Creative Bookcase1
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Honey Block with name ct_shapeless1519183647
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Filled Honeycomb Block with name ct_shapeless-418379711
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Honeycomb Block with name ct_shapeless-1286670396
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Storage Bag with name Storage Bag
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Chicken Wing Ring with name ct_shaped1497696504
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Slimey Generator with name SlimeGen
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Aluminium Structural Arm with name Aluminum Scaffolding
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Steel Structural Arm with name Steel Scaffolding
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Pulverized Lead with name LeadDustFromTiny
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Lapis Lazuli Dust with name LapisDustFromTiny
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Bronze Paxel with name Mekanism Bronze Paxel
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Steel Paxel with name Mekanism Steel Paxel
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Bread with name Bread
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Marble Wall with name Quark Marble Wall
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Light Gray Alabaster with name Light Gray Alabaster
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Oak Bookshelf with name Bookshelf Conversion
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Block of Uranium with name UraniumBlock
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Uranium Ingot with name UraniumIngots
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Silicon with name ct_shapeless-1442766672
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Silicon Ingot with name ct_shapeless2138211091
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Iridium Ingot with name ct_shapeless-1717348894
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Iridium Ore with name ct_shapeless-1415599364
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Graphite Bar with name Graphite Conversion 1
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Graphite Ingot with name Graphite Conversion 2
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Graphite Block with name Graphite Conversion 3
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Graphite Block with name Graphite Conversion 4
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Ludicrite Block with name Ludicrite Block 1
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Ludicrite Block with name Ludicrite Block 2
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Digital Guide with name Environmental Tech Guide
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Lonsdaleite Crystal with name Lonsdaleite
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Forester's Manual with name Foresters Manual
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Iron Gear Set with name Iron Gear Set
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Titanium Ingot with name Titanium Ingot
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for White Wool with name wool
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Orange Wool with name wool1
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Magenta Wool with name wool2
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Light Blue Wool with name wool3
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Yellow Wool with name wool4
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Lime Wool with name wool5
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Pink Wool with name wool6
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Gray Wool with name wool7
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Light Gray Wool with name wool8
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Cyan Wool with name wool9
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Purple Wool with name wool10
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Blue Wool with name wool11
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Brown Wool with name wool12
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Green Wool with name wool13
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Red Wool with name wool14
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Black Wool with name wool15
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Mycelial Netherrack with name BoP Mycelial Netherrack
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Flowering Grass Block with name BoP Flowering Grass
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Overgrown Netherrack with name BoP Overgrown Netherrack
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Origin Grass Block with name BoP Origin Grass
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Silty Grass Block with name BoP Silty Grass
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Sandy Grass Block with name BoP Sandy Grass
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Loamy Grass Block with name BoP Loamy Grass
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Silty Dirt with name BoP Silty Dirt
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Sandy Dirt with name BoP Sandy Dirt
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Loamy Dirt with name BoP Loamy Dirt
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Name Tag with name Nametag
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Elytra with name Elytra
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Redwood Sapling with name Natura Redwood Sapling
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Astral Tome with name Astral Sorcery Journal
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Mega Torch with name Mega Torch
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Market with name Farming for Blockheads Market
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Rainbow Generator! with name Rainbow Generator
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Lavender Shortbread with name Pam's Harvestcraft Lavender Shortbread
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Oak Boat with name Boat
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Wrought Iron Ingot with name Wrought Iron
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Oak Chest with name chest2chest
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Slate with name slate
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Bronze Ingot with name TE Bronze
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Overgrown Stone with name Overgrown Stone1
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Overgrown Stone with name Overgrown Stone2
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Overgrown Stone with name Overgrown Stone3
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Morphing Tool with name Superwrench
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Wooden Trapdoor with name trapdoororedict1
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Oak Trapped Chest with name trappedchestoredict1
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Oak Chest with name chestoredict1
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for White Bed with name bedoredict1
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Oak Door with name wooddoororedict1
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Iron Plate with name plate32a
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Gold Plate with name plate33a
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Fluxed Electrum Plate with name plate128a
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Copper Plate with name plate320a
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Tin Plate with name plate321a
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Silver Plate with name plate322a
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Lead Plate with name plate323a
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Aluminum Plate with name plate324a
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Nickel Plate with name plate325a
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Platinum Plate with name plate326a
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Iridium Plate with name plate327a
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Mana Infused Plate with name plate328a
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Steel Plate with name plate352a
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Electrum Plate with name plate353a
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Invar Plate with name plate354a
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Bronze Plate with name plate355a
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Constantan Plate with name plate356a
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Signalum Plate with name plate357a
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Lumium Plate with name plate358a
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Enderium Plate with name plate359a
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Bronze Item Casing with name IC2Casing1
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Copper Item Casing with name IC2Casing2
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Gold Item Casing with name IC2Casing3
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Iron Item Casing with name IC2Casing4
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Lead Item Casing with name IC2Casing5
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Steel Item Casing with name IC2Casing6
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Tin Item Casing with name IC2Casing7
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Iron Plate with name plate32b
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Gold Plate with name plate33b
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Fluxed Electrum Plate with name plate128b
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Copper Plate with name plate320b
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Tin Plate with name plate321b
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Silver Plate with name plate322b
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Lead Plate with name plate323b
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Aluminum Plate with name plate324b
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Nickel Plate with name plate325b
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Platinum Plate with name plate326b
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Iridium Plate with name plate327b
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Mana Infused Plate with name plate328b
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Steel Plate with name plate352b
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Electrum Plate with name plate353b
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Invar Plate with name plate354b
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Bronze Plate with name plate355b
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Constantan Plate with name plate356b
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Signalum Plate with name plate357b
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Lumium Plate with name plate358b
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Enderium Plate with name plate359b
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Wooden Trapdoor with name minecraft_trapdoor_remake
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Building Tool with name structurize_sceptergold_custom
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Scan Tool with name structurize_sceptersteel_custom
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Cactus Plank with name Cactus Plank
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Iron Bushing Set Set with name Iron Bushing
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Barley Flour with name Barley Flour
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Lavastone with name Chisel Lavastone
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Rusty Ladder with name Rusty Ladder
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Iron Chain with name Rustic Iron Chain
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Wired Modem with name Wired Modem
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Iron Frame with name Advanced Generators Iron Frame
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Control Circuit with name Advanced Generators Control Circuit
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Wooden Bushing Set with name Ancient Warfare Wooden Bushing Set
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Peking Duck with name Peking Duck
+[POSTINITIALIZATION][CLIENT][INFO] Adding shapeless recipe for Soft Pretzel with name Soft Pretzel
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Polished Marble with name Polished Marble
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Iron Knife with name Roots 2 Iron Knife
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Wooden Stake with name Rustic Crop Stake
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Iron Lattice with name Rustic Iron Lattice
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Boiler Casing with name ct_shaped-1005012417
+[POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Wooden Gear with name Applied Llamagistics Wood Gear
+[POSTINITIALIZATION][CLIENT][INFO] Removing furnace recipes for: <minecraft:coal>
+[POSTINITIALIZATION][CLIENT][INFO] 1 recipes removed for: <minecraft:coal>
+[POSTINITIALIZATION][CLIENT][INFO] Removing furnace recipes for: <minecraft:diamond>
+[POSTINITIALIZATION][CLIENT][INFO] 1 recipes removed for: <minecraft:diamond>
+[POSTINITIALIZATION][CLIENT][INFO] Removing furnace recipes for: <minecraft:quartz>
+[POSTINITIALIZATION][CLIENT][INFO] 1 recipes removed for: <minecraft:quartz>
+[POSTINITIALIZATION][CLIENT][INFO] Removing furnace recipes for: <minecraft:iron_ingot>
+[POSTINITIALIZATION][CLIENT][INFO] 1 recipes removed for: <minecraft:iron_ingot>
+[POSTINITIALIZATION][CLIENT][INFO] Removing furnace recipes for: <minecraft:emerald>
+[POSTINITIALIZATION][CLIENT][INFO] 1 recipes removed for: <minecraft:emerald>
+[POSTINITIALIZATION][CLIENT][INFO] Removing furnace recipes for: <minecraft:redstone>
+[POSTINITIALIZATION][CLIENT][INFO] 1 recipes removed for: <minecraft:redstone>
+[POSTINITIALIZATION][CLIENT][INFO] Removing furnace recipes for: <minecraft:gold_ingot>
+[POSTINITIALIZATION][CLIENT][INFO] 1 recipes removed for: <minecraft:gold_ingot>
+[POSTINITIALIZATION][CLIENT][INFO] Removing furnace recipes for: <minecraft:dye:4>
+[POSTINITIALIZATION][CLIENT][INFO] 1 recipes removed for: <minecraft:dye:4>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <minecraft:coal_ore>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <minecraft:diamond_ore>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <minecraft:quartz_ore>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <minecraft:iron_ore>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <minecraft:emerald_ore>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <minecraft:redstone_ore>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <minecraft:gold_ore>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <minecraft:lapis_ore>
+[POSTINITIALIZATION][CLIENT][INFO] Adding furnace recipe for <thermalfoundation:material:96>
+[POSTINITIALIZATION][CLIENT][INFO] Removing 1 Mekanism Combiner Recipe(s) for <forestry:resources>
+[POSTINITIALIZATION][CLIENT][INFO] Removing 3 Mekanism Combiner Recipe(s) for <minecraft:quartz_ore>, <minecraft:quartz_ore>, <minecraft:quartz_ore>
+[POSTINITIALIZATION][CLIENT][INFO] Removing 1 Mekanism Combiner Recipe(s) for <minecraft:coal_ore>
+[POSTINITIALIZATION][CLIENT][INFO] Adding 1 Mekanism Smelter Recipe(s) for <astralsorcery:itemcraftingcomponent:1>
+[POSTINITIALIZATION][CLIENT][INFO] Adding 1 Mekanism Combiner Recipe(s) for <minecraft:quartz_ore>
+[POSTINITIALIZATION][CLIENT][INFO] Adding 1 Mekanism Combiner Recipe(s) for <minecraft:coal_ore>
+[POSTINITIALIZATION][CLIENT][INFO] Adding 1 Mekanism Smelter Recipe(s) for <nuclearcraft:ingot:6>
+[AVAILABLE][CLIENT][INFO] Fixed the RecipeBook
+[AVAILABLE][CLIENT][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@58ab1393"
+[AVAILABLE][CLIENT][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@495d5796"
+[AVAILABLE][CLIENT][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@519ed4ab"
+[AVAILABLE][CLIENT][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@71f28ed2"
+[AVAILABLE][CLIENT][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@6f9315b5"
+[AVAILABLE][CLIENT][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@4cd10e36"
+[AVAILABLE][CLIENT][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@6bcdb08b"
+[AVAILABLE][CLIENT][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@e2c273e"
+[AVAILABLE][CLIENT][INFO] Altering Compactor Recipe(s) for <appliedenergistics2:material:13> in mode: ALL
+[AVAILABLE][CLIENT][INFO] Altering Compactor Recipe(s) for <appliedenergistics2:material:14> in mode: ALL
+[AVAILABLE][CLIENT][INFO] Altering Compactor Recipe(s) for <appliedenergistics2:material:15> in mode: ALL
+[AVAILABLE][CLIENT][INFO] Altering Compactor Recipe(s) for <appliedenergistics2:material:19> in mode: ALL
+[AVAILABLE][CLIENT][INFO] Altering Compactor Recipe(s) for <appliedenergistics2:material:5> in mode: COIN
+[AVAILABLE][CLIENT][INFO] Altering Pulverizer Recipe(s) for <appliedenergistics2:material:2>
+[AVAILABLE][CLIENT][INFO] Altering Forestry Centrifuge Recipe(s) for <biomesoplenty:flesh>
+[AVAILABLE][CLIENT][INFO] Altering Forestry Centrifuge Recipe(s) for <biomesoplenty:honey_block>
+[AVAILABLE][CLIENT][INFO] Altering Centrifuge Recipe(s) for <biomesoplenty:honey_block>
+[AVAILABLE][CLIENT][INFO] Adding chisel variation for group: basalt and item: 1xtile.basalt@1
+[AVAILABLE][CLIENT][INFO] Adding chisel variation for group: basalt and item: 1xtile.basalt@0
+[AVAILABLE][CLIENT][INFO] Adding chisel variation for group: basalt and item: 1xic2.resource@0
+[AVAILABLE][CLIENT][INFO] Adding chisel variation for group: marble and item: 1xtile.marble@0
+[AVAILABLE][CLIENT][INFO] Adding chisel variation for group: limestone and item: 1xtile.limestone@0
+[AVAILABLE][CLIENT][INFO] Adding chisel variation for group: limestone and item: 1xtile.limestone@1
+[AVAILABLE][CLIENT][INFO] Adding chisel variation for group: sootymarble and item: 1xtile.blockblackmarble@0
+[AVAILABLE][CLIENT][INFO] Adding chisel variation for group: sootymarble and item: 1xtile.blockblackmarble@1
+[AVAILABLE][CLIENT][INFO] Adding chisel variation for group: sootymarble and item: 1xtile.blockblackmarble@2
+[AVAILABLE][CLIENT][INFO] Adding chisel variation for group: sootymarble and item: 1xtile.blockblackmarble@3
+[AVAILABLE][CLIENT][INFO] Adding chisel variation for group: sootymarble and item: 1xtile.blockblackmarble@4
+[AVAILABLE][CLIENT][INFO] Adding chisel variation for group: sootymarble and item: 1xtile.blockblackmarble@5
+[AVAILABLE][CLIENT][INFO] Adding chisel variation for group: sootymarble and item: 1xtile.blockblackmarble@6
+[AVAILABLE][CLIENT][INFO] Adding chisel variation for group: castlebrickrune and item: 1xtile.twilightforest.CastleMagic@0
+[AVAILABLE][CLIENT][INFO] Adding chisel variation for group: castlebrickrune and item: 1xtile.twilightforest.CastleMagic@1
+[AVAILABLE][CLIENT][INFO] Adding chisel variation for group: castlebrickrune and item: 1xtile.twilightforest.CastleMagic@2
+[AVAILABLE][CLIENT][INFO] Adding chisel variation for group: castlebrickrune and item: 1xtile.twilightforest.CastleMagic@3
+[AVAILABLE][CLIENT][INFO] Adding chisel variation for group: castlebrickdoor and item: 1xtile.twilightforest.CastleDoor@0
+[AVAILABLE][CLIENT][INFO] Adding chisel variation for group: castlebrickdoor and item: 1xtile.twilightforest.CastleDoor@1
+[AVAILABLE][CLIENT][INFO] Adding chisel variation for group: castlebrickdoor and item: 1xtile.twilightforest.CastleDoor@2
+[AVAILABLE][CLIENT][INFO] Adding chisel variation for group: castlebrickdoor and item: 1xtile.twilightforest.CastleDoor@3
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <chiselsandbits:chiseled_iron> to: Desiderium
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for <liquid:alumite> * 16
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for <liquid:alumite> * 144
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for <liquid:alumite> * 1296
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for <liquid:refinedobsidian> * 16
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for <liquid:refinedobsidian> * 144
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for <liquid:refinedobsidian> * 1296
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for <liquid:osgloglas> * 16
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for <liquid:osgloglas> * 144
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for <liquid:osgloglas> * 1296
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for <liquid:refinedglowstone> * 16
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for <liquid:refinedglowstone> * 144
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for <liquid:refinedglowstone> * 1296
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for <liquid:osmiridium> * 16
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for <liquid:osmiridium> * 144
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for <liquid:osmiridium> * 1296
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for <liquid:elementium> * 16
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for <liquid:elementium> * 144
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for <liquid:elementium> * 1296
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for <liquid:mirion> * 16
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for <liquid:mirion> * 144
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for <liquid:mirion> * 1296
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for <liquid:psimetal> * 144
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for <liquid:psimetal> * 144
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for <liquid:psimetal> * 1296
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for <liquid:psimetal> * 1296
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for <liquid:thaumium> * 16
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for <liquid:thaumium> * 144
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for <liquid:thaumium> * 1296
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for <liquid:manasteel> * 16
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for <liquid:manasteel> * 144
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for <liquid:manasteel> * 1296
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for <liquid:terrasteel> * 16
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for <liquid:terrasteel> * 144
+[AVAILABLE][CLIENT][INFO] Altering Crucible Recipe(s) for <liquid:terrasteel> * 1296
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <chiselsandbits:chiseled_iron> to: Desiderium
+[AVAILABLE][CLIENT][INFO] Setting aspects on item: <ic2:dust:21> to: Metallum
+[AVAILABLE][CLIENT][INFO] Adding infusion recipe for: 1xitem.curio@6
+[AVAILABLE][CLIENT][INFO] Adding infusion recipe for: 1xitem.monsterPlacer@0
+[AVAILABLE][CLIENT][INFO] Removing <thaumcraft:nugget:1> as a possible smelting bonus for: oreCopper
+[AVAILABLE][CLIENT][INFO] Removing <thaumcraft:nugget:2> as a possible smelting bonus for: oreTin
+[AVAILABLE][CLIENT][INFO] Removing <thaumcraft:nugget:3> as a possible smelting bonus for: oreSilver
+[AVAILABLE][CLIENT][INFO] Removing <thaumcraft:nugget:4> as a possible smelting bonus for: oreLead
+[AVAILABLE][CLIENT][INFO] Removing <thaumcraft:nugget:1> as a possible smelting bonus for: 1xitem.cluster@2
+[AVAILABLE][CLIENT][INFO] Removing <thaumcraft:nugget:2> as a possible smelting bonus for: 1xitem.cluster@3
+[AVAILABLE][CLIENT][INFO] Removing <thaumcraft:nugget:3> as a possible smelting bonus for: 1xitem.cluster@4
+[AVAILABLE][CLIENT][INFO] Removing <thaumcraft:nugget:4> as a possible smelting bonus for: 1xitem.cluster@5
+[AVAILABLE][CLIENT][INFO] Adding <thermalfoundation:material:192> as a possible smelting bonus for: oreCopper
+[AVAILABLE][CLIENT][INFO] Adding <thermalfoundation:material:193> as a possible smelting bonus for: oreTin
+[AVAILABLE][CLIENT][INFO] Adding <thermalfoundation:material:194> as a possible smelting bonus for: oreSilver
+[AVAILABLE][CLIENT][INFO] Adding <thermalfoundation:material:195> as a possible smelting bonus for: oreLead
+[AVAILABLE][CLIENT][INFO] Altering Alloy Recipe(s) for <liquid:steel> * 18
+[AVAILABLE][CLIENT][INFO] Altering Casting Recipe(s) for <tconstruct:metal>
+[AVAILABLE][CLIENT][INFO] Altering Fuel Recipe(s) for <liquid:pyrotheum> * 25
+[AVAILABLE][CLIENT][INFO] Altering Fuel Recipe(s) for <liquid:xu_demonic_metal> * 25
+[AVAILABLE][CLIENT][INFO] Altering Fuel Recipe(s) for <liquid:sulfuricacid> * 25
+[AVAILABLE][CLIENT][INFO] Altering Fuel Recipe(s) for <liquid:refined_fuel> * 25
+[AVAILABLE][CLIENT][INFO] Altering Fuel Recipe(s) for <liquid:ic2uu_matter> * 25
+[AVAILABLE][CLIENT][INFO] Altering Fuel Recipe(s) for <liquid:ic2pahoehoe_lava> * 25
+[AVAILABLE][CLIENT][INFO] Altering Fuel Recipe(s) for <liquid:gasoline> * 25
+[AVAILABLE][CLIENT][INFO] Altering Fuel Recipe(s) for <liquid:diesel> * 25
+[AVAILABLE][CLIENT][INFO] Altering Fuel Recipe(s) for <liquid:astralsorcery.liquidstarlight> * 25
+[AVAILABLE][CLIENT][INFO] Adding description in JEI for: <thermalexpansion:cache>
+[AVAILABLE][CLIENT][INFO] Adding description in JEI for: <environmentaltech:void_ore_miner_cont_6>
+[AVAILABLE][CLIENT][INFO] Adding description in JEI for: <liquid:nitrogen>
+[AVAILABLE][CLIENT][INFO] Adding description in JEI for: <backpack:backpack:*>
+[AVAILABLE][CLIENT][INFO] Adding description in JEI for: <animania:friesian_cheese_wheel>
+[AVAILABLE][CLIENT][INFO] Adding description in JEI for: <animania:holstein_cheese_wheel>
+[AVAILABLE][CLIENT][INFO] Adding description in JEI for: <animania:jersey_cheese_wheel>
+[AVAILABLE][CLIENT][INFO] Adding description in JEI for: <animania:goat_cheese_wheel>
+[AVAILABLE][CLIENT][INFO] Adding description in JEI for: <animania:sheep_cheese_wheel>
+[AVAILABLE][CLIENT][INFO] Adding description in JEI for: <extrautils2:bagofholding>
+[AVAILABLE][CLIENT][INFO] Adding description in JEI for: <guideapi:bloodmagic-guide>
+[AVAILABLE][CLIENT][INFO] Adding description in JEI for: <thaumcraft:thaumonomicon>
+[AVAILABLE][CLIENT][INFO] Adding description in JEI for: <thaumcraft:arcane_workbench>
+[AVAILABLE][CLIENT][INFO] Adding description in JEI for: <thaumcraft:crucible>
+[AVAILABLE][CLIENT][INFO] Adding description in JEI for: <bloodmagic:item_demon_crystal>
+[AVAILABLE][CLIENT][INFO] Adding description in JEI for: <bloodmagic:item_demon_crystal:1>
+[AVAILABLE][CLIENT][INFO] Adding description in JEI for: <bloodmagic:item_demon_crystal:2>
+[AVAILABLE][CLIENT][INFO] Adding description in JEI for: <bloodmagic:item_demon_crystal:3>
+[AVAILABLE][CLIENT][INFO] Adding description in JEI for: <bloodmagic:item_demon_crystal:4>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <backpack:stick>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <backpack:stick:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <biomesoplenty:gem:7>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <cyclicmagic:heart_toxic>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <embers:pickaxe_copper>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <embers:axe_copper>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <embers:shovel_copper>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <embers:hoe_copper>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <embers:sword_copper>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <embers:pickaxe_silver>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <embers:axe_silver>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <embers:shovel_silver>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <embers:hoe_silver>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <embers:sword_silver>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <embers:pickaxe_lead>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <embers:axe_lead>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <embers:shovel_lead>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <embers:hoe_lead>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <embers:sword_lead>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <embers:pickaxe_aluminum>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <embers:axe_aluminum>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <embers:shovel_aluminum>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <embers:hoe_aluminum>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <embers:sword_aluminum>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <embers:pickaxe_bronze>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <embers:axe_bronze>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <embers:shovel_bronze>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <embers:hoe_bronze>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <embers:sword_bronze>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <embers:pickaxe_electrum>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <embers:axe_electrum>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <embers:shovel_electrum>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <embers:hoe_electrum>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <embers:sword_electrum>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <embers:pickaxe_nickel>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <embers:axe_nickel>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <embers:shovel_nickel>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <embers:hoe_nickel>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <embers:sword_nickel>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <embers:pickaxe_tin>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <embers:axe_tin>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <embers:shovel_tin>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <embers:hoe_tin>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <embers:sword_tin>
+[AVAILABLE][CLIENT][INFO] Hiding category in JEI: minecraft.fuel
+[AVAILABLE][CLIENT][INFO] Hiding category in JEI: jehc.market
+[AVAILABLE][CLIENT][INFO] Hiding category in JEI: thermalexpansion.factorizer_combine
+[AVAILABLE][CLIENT][INFO] Hiding category in JEI: thermalexpansion.factorizer_split
+[AVAILABLE][CLIENT][INFO] Hiding category in JEI: Painter
+[AVAILABLE][CLIENT][INFO] Hiding category in JEI: forestry.bottler
+[AVAILABLE][CLIENT][INFO] Hiding category in JEI: jeresources.villager
+[AVAILABLE][CLIENT][INFO] Hiding category in JEI: ic2.scrapbox
+[AVAILABLE][CLIENT][INFO] Hiding category in JEI: EIOTank
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <mekanismtools:bronzepickaxe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <mekanismtools:bronzeaxe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <mekanismtools:bronzeshovel>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <mekanismtools:bronzehoe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <mekanismtools:bronzesword>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <mekanismtools:bronzehelmet>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <mekanismtools:bronzeboots>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <mekanismtools:bronzeleggings>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <mekanismtools:bronzechestplate>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <mekanismtools:steelpickaxe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <mekanismtools:steelaxe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <mekanismtools:steelshovel>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <mekanismtools:steelhoe>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <mekanismtools:steelsword>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <mekanismtools:steelhelmet>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <mekanismtools:steelboots>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <mekanismtools:steelleggings>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <mekanismtools:steelchestplate>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <opencomputers:material:29>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <extrabitmanipulation:diamond_nugget>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <gardenstuff:stone_block>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <actuallyadditions:block_misc:5>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <immersiveengineering:metal:29>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <gardenstuff:material>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <embers:nugget_copper>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <embers:nugget_lead>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <embers:nugget_silver>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <embers:nugget_aluminum>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <embers:nugget_bronze>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <embers:nugget_electrum>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <embers:nugget_nickel>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <embers:nugget_tin>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <immersiveengineering:metal:20>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <immersiveengineering:metal:21>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <immersiveengineering:metal:22>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <immersiveengineering:metal:23>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <immersiveengineering:metal:24>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <immersiveengineering:metal:26>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <immersiveengineering:metal:27>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <immersiveengineering:metal:28>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <plustic:invarnugget>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <forestry:gear_tin>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <forestry:gear_bronze>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <forestry:gear_copper>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <libvulpes:productgear:6>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <nuclearcraft:ore>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <nuclearcraft:ore:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <nuclearcraft:ore:2>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <nuclearcraft:ore:4>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <nuclearcraft:shovel_tough>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <nuclearcraft:pickaxe_tough>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <nuclearcraft:sword_tough>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <nuclearcraft:spaxelhoe_boron>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <nuclearcraft:hoe_boron>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <nuclearcraft:axe_boron>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <nuclearcraft:shovel_boron>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <nuclearcraft:pickaxe_boron>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <nuclearcraft:sword_boron>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <nuclearcraft:dust>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <nuclearcraft:dust:2>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <nuclearcraft:dust:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <nuclearcraft:ingot:4>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <nuclearcraft:ingot:2>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <nuclearcraft:ingot:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <nuclearcraft:dust:4>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <nuclearcraft:alloy>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <nuclearcraft:alloy:5>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <nuclearcraft:ingot>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <nuclearcraft:pickaxe_boron_nitride>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <nuclearcraft:spaxelhoe_boron_nitride>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <nuclearcraft:hoe_boron_nitride>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <nuclearcraft:axe_boron_nitride>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <nuclearcraft:shovel_boron_nitride>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <nuclearcraft:sword_boron_nitride>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <nuclearcraft:spaxelhoe_hard_carbon>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <nuclearcraft:hoe_hard_carbon>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <nuclearcraft:axe_hard_carbon>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <nuclearcraft:shovel_hard_carbon>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <nuclearcraft:pickaxe_hard_carbon>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <nuclearcraft:sword_hard_carbon>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <nuclearcraft:spaxelhoe_tough>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <nuclearcraft:hoe_tough>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <nuclearcraft:axe_tough>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <opencomputers:material:29>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <opencomputers:material>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <embers:plate_copper>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <embers:plate_lead>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <embers:plate_silver>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <embers:plate_iron>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <embers:plate_gold>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <embers:plate_aluminum>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <embers:plate_bronze>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <embers:plate_electrum>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <embers:plate_nickel>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <embers:plate_tin>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <immersiveengineering:metal:30>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <immersiveengineering:metal:31>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <immersiveengineering:metal:32>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <immersiveengineering:metal:33>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <immersiveengineering:metal:34>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <immersiveengineering:metal:36>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <immersiveengineering:metal:37>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <immersiveengineering:metal:38>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <immersiveengineering:metal:39>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <immersiveengineering:metal:40>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <ic2:plate>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <ic2:plate:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <ic2:plate:2>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <ic2:plate:3>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <ic2:plate:5>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <ic2:plate:7>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <ic2:plate:8>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <extracells:terminal.universal.wireless>.withTag({type: 0 as byte, modules: 23 as byte})
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <extracells:terminal.gas.wireless>.withTag({})
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <extracells:part.base:6>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <extracells:part.base:5>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <extracells:part.base:4>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <extracells:part.base:3>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <extracells:part.base:2>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <extracells:part.base:1>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <extracells:part.base>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <extracells:part.base:9>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <extracells:storage.fluid>.withTag({})
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <extracells:storage.fluid:1>.withTag({})
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <extracells:storage.fluid:2>.withTag({})
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <extracells:storage.fluid:3>.withTag({})
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <extracells:storage.component:4>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <extracells:storage.component:5>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <extracells:storage.component:6>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <extracells:storage.component:7>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <extracells:ecbaseblock>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <tconstruct:rack>
+[AVAILABLE][CLIENT][INFO] Hiding item in JEI: <tconstruct:rack>
