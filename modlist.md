@@ -239,44 +239,42 @@
 - xnet-1.12-1.8.2.jar
 - YNot-0.2.4.jar
 - zerocore-1.12-0.1.2.3.jar
-
-
-alternatingflux-0.12.2-2.jar
-angermanagement-1.12.2-1.0.2.jar
-Animus-1.12-2.1.7.jar
-B3M-1.12.2-17.jar
-bettercaves-1.12.2-2.0.4.jar
-BetterMineshaftsForge-1.12.2-2.1.1.jar
-Bloodmoon-MC1.12.2-1.5.3.jar
-brokenwings-2.1.1.jar
-catwalks-1.12.2-4.0.45.jar
-ClocheCall-1.1.2.jar
-coroutil-1.12.1-1.2.37.jar
-ElectroblobsWizardry-4.3.1-MC1.12.2.jar
-Embassy_5.0-b20.jar
-engineersdecor-1.12.2-1.1.2.jar
-FamiliarFauna-1.12.2-1.0.11.jar
-fancymenu_1.5.4.1_MC_1.12-1.12.2.jar
-foamflower-1.12.2-1.0.0.0-beta1.jar
-GasConduits-1.12.2-1.2.2.jar
-HardcoreDarkness-MC1.12.2-2.0.jar
-iceandfire-1.9.1-1.12.2.jar
-ImmersiveCables-1.12.2-1.3.2.jar
-ImmersivePosts-0.2.1.jar
-IndustrialWires-1.7-36.jar
-llibrary-1.7.19-1.12.2.jar
-LootTweaker-0.2.0+MC1.12.2.jar
-Netherending-Ores-1.12.2-1.4.2.jar
-noRecipeBook_v1.2.2formc1.12.2.jar
-preview_OptiFine_1.12.2_HD_U_F6_pre1.jar
-ProgressiveBosses-1.5.4-mc1.12.x.jar
-railcraft-12.0.0.jar
-RoguelikeDungeonsFnarEdition-1.12.2-2.1.4.jar
-rsgauges-1.12.2-1.2.5.jar
-SoundFilters-0.12.1_for_1.12.jar
-SplashAnimation-0.2.1.jar
-ToolBelt-1.12.2-1.9.13.jar
-vending-1.12.2-3.0.1.2.jar
-woot-1.12.2-1.4.11.jar
-zettaindustries-1.3-1.12.2-161.jar
-zombieawareness-1.12.1-1.11.16.jar
+- alternatingflux-0.12.2-2.jar
+- angermanagement-1.12.2-1.0.2.jar
+- Animus-1.12-2.1.7.jar
+- B3M-1.12.2-17.jar
+- bettercaves-1.12.2-2.0.4.jar
+- BetterMineshaftsForge-1.12.2-2.1.1.jar
+- Bloodmoon-MC1.12.2-1.5.3.jar
+- brokenwings-2.1.1.jar
+- catwalks-1.12.2-4.0.45.jar
+- ClocheCall-1.1.2.jar
+- coroutil-1.12.1-1.2.37.jar
+- ElectroblobsWizardry-4.3.1-MC1.12.2.jar
+- Embassy_5.0-b20.jar
+- engineersdecor-1.12.2-1.1.2.jar
+- FamiliarFauna-1.12.2-1.0.11.jar
+- fancymenu_1.5.4.1_MC_1.12-1.12.2.jar
+- foamflower-1.12.2-1.0.0.0-beta1.jar
+- GasConduits-1.12.2-1.2.2.jar
+- HardcoreDarkness-MC1.12.2-2.0.jar
+- iceandfire-1.9.1-1.12.2.jar
+- ImmersiveCables-1.12.2-1.3.2.jar
+- ImmersivePosts-0.2.1.jar
+- IndustrialWires-1.7-36.jar
+- llibrary-1.7.19-1.12.2.jar
+- LootTweaker-0.2.0+MC1.12.2.jar
+- Netherending-Ores-1.12.2-1.4.2.jar
+- noRecipeBook_v1.2.2formc1.12.2.jar
+- preview_OptiFine_1.12.2_HD_U_F6_pre1.jar
+- ProgressiveBosses-1.5.4-mc1.12.x.jar
+- railcraft-12.0.0.jar
+- RoguelikeDungeonsFnarEdition-1.12.2-2.1.4.jar
+- rsgauges-1.12.2-1.2.5.jar
+- SoundFilters-0.12.1_for_1.12.jar
+- SplashAnimation-0.2.1.jar
+- ToolBelt-1.12.2-1.9.13.jar
+- vending-1.12.2-3.0.1.2.jar
+- woot-1.12.2-1.4.11.jar
+- zettaindustries-1.3-1.12.2-161.jar
+- zombieawareness-1.12.1-1.11.16.jar
