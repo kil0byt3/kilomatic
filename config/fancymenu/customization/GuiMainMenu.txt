@@ -1,0 +1,127 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.GuiMainMenu
+  renderorder = background
+}
+
+customization {
+  name = minecraftyoutube
+  action = animatebackground
+}
+
+customization {
+  identifier = %id=400298%
+  orientation = bottom-centered
+  x = -89
+  action = movebutton
+  y = -66
+}
+
+customization {
+  identifier = %id=400298%
+  width = 178
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400298%
+  action = sethoverlabel
+  label = 
+}
+
+customization {
+  identifier = %id=400322%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = 43
+}
+
+customization {
+  identifier = %id=400322%
+  width = 200
+  action = resizebutton
+  height = 34
+}
+
+customization {
+  identifier = %id=400322%
+  action = setbuttonlabel
+  value = PLAY
+}
+
+customization {
+  identifier = %id=400322%
+  action = sethoverlabel
+  label = Multiplayer
+}
+
+customization {
+  identifier = %id=400382%
+  orientation = bottom-centered
+  x = -89
+  action = movebutton
+  y = -36
+}
+
+customization {
+  identifier = %id=400382%
+  width = 178
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=502382%
+  orientation = bottom-right
+  x = -108
+  action = movebutton
+  y = -34
+}
+
+customization {
+  identifier = %id=376382%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=400346%
+  orientation = bottom-left
+  x = 10
+  action = movebutton
+  y = -34
+}
+
+customization {
+  identifier = %id=400346%
+  action = setbuttonlabel
+  value = Mod List
+}
+
+customization {
+  identifier = %id=502346%
+  action = hidebutton
+}
+
+customization {
+  path = resources/modpack/textures/gui/enigmatica2.png
+  orientation = mid-centered
+  x = -294
+  width = 589
+  action = addtexture
+  y = -140
+  height = 100
+}
+
+customization {
+  path = resources/modpack/textures/gui/tekgoose.png
+  orientation = top-left
+  x = 0
+  width = 100
+  action = addtexture
+  y = 0
+  height = 100
+}
+

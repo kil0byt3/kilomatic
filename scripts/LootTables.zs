@@ -54,15 +54,15 @@ icedragM.addItemEntryHelper(<iceandfire:dragonbone_sword>, 8, 1, [Functions.setC
 icedragF.addItemEntryHelper(<iceandfire:dragonbone_sword>, 8, 1, [Functions.setCount(1, 1)], []);
 
 # Food
-firedragM.addItemEntryHelper(<animania:cooked_prime_steak>, 15, 1, [Functions.setCount(10, 30)], []);
-firedragF.addItemEntryHelper(<animania:cooked_prime_steak>, 15, 1, [Functions.setCount(10, 30)], []);
-icedragM.addItemEntryHelper(<animania:cooked_prime_steak>, 15, 1, [Functions.setCount(10, 30)], []);
-icedragF.addItemEntryHelper(<animania:cooked_prime_steak>, 15, 1, [Functions.setCount(10, 30)], []);
+firedragM.addItemEntryHelper(<animania:cooked_prime_steak>, 10, 1, [Functions.setCount(10, 15)], []);
+firedragF.addItemEntryHelper(<animania:cooked_prime_steak>, 10, 1, [Functions.setCount(10, 15)], []);
+icedragM.addItemEntryHelper(<animania:cooked_prime_steak>, 10, 1, [Functions.setCount(10, 15)], []);
+icedragF.addItemEntryHelper(<animania:cooked_prime_steak>, 10, 1, [Functions.setCount(10, 15)], []);
 
-firedragM.addItemEntryHelper(<animania:cooked_prime_beef>, 15, 1, [Functions.setCount(10, 30)], []);
-firedragF.addItemEntryHelper(<animania:cooked_prime_beef>, 15, 1, [Functions.setCount(10, 30)], []);
-icedragM.addItemEntryHelper(<animania:cooked_prime_beef>, 15, 1, [Functions.setCount(10, 30)], []);
-icedragF.addItemEntryHelper(<animania:cooked_prime_beef>, 15, 1, [Functions.setCount(10, 30)], []);
+firedragM.addItemEntryHelper(<animania:cooked_prime_beef>, 10, 1, [Functions.setCount(10, 15)], []);
+firedragF.addItemEntryHelper(<animania:cooked_prime_beef>, 10, 1, [Functions.setCount(10, 15)], []);
+icedragM.addItemEntryHelper(<animania:cooked_prime_beef>, 10, 1, [Functions.setCount(10, 15)], []);
+icedragF.addItemEntryHelper(<animania:cooked_prime_beef>, 10, 1, [Functions.setCount(10, 15)], []);
 
 # Sapphire
 icedragM.addItemEntryHelper(<iceandfire:sapphire_gem>, 20, 1, [Functions.setCount(1, 3)], []);
